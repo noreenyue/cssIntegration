@@ -22,8 +22,17 @@ def rootDirHandler(rootpath):
 def fileHandler(abspath):
     try:
         fh = open(abspath)
+        importLines = []
         for  line in  fh.readlines(): 
-            print  line
+            if line[:7] == "@import":
+                importLines.append(line)
+                
+        if not importLines:
+            pass
+        else:
+            pass
+                
+                
     except Exception as e:
         logger.exception(e)
 
