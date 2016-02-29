@@ -1,0 +1,23 @@
+.dropDown { z-index:9; position:relative;*zoom:1;_width:0;height:0;font-size:0; line-height:0;_zoom:expression(function(x){x.style.width=x.parentNode.offsetWidth;x.style.zoom=1}(this))}
+.dropD {top:-1px;left:0;position:absolute;border:1px solid #bebebe;white-space:nowrap; font-size:12px; line-height:1.667; vertical-align:top; background:#fff;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;-webkit-border-top-left-radius:0;-moz-border-radius-topleft:0;border-radius-topleft:0}
+.dropC {*zoom:1}
+.dropD .signArr { display:none}
+
+.dropL {zoom:1; display:block;width:100px;padding:2px 0 1px}
+b.dropL {margin:2px 0 0;border-top:1px solid #E4E4E4}
+.dropL a { overflow:hidden; display:block; height:23px; line-height:23px; padding:0 10px; margin:0 -1px; word-wrap:break-word;color:#464646}
+.dropL a:hover { color:#fff; text-decoration:none; background:#858585}
+
+/* full corner */
+.mainT .tabs .dropD {-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px}
+.mainT .tabs .dropL {width:82px}
+
+/* on the right */
+.dropD {left:0px}
+.usrPanel .oper .dropD {left:auto;right:0;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;-webkit-border-top-right-radius:0;-moz-border-radius-topright:0;border-radius-topright:0}
+.usrPanel .oper .tag .dropD {_right:8px}
+
+/* --- ext --- */
+.dropLogin .signArr {top:-11px;left:4px; position:relative; overflow:hidden;display:block;height:7px; width:55px;margin:0 0 0 245px; background:#1B8DA9}
+.dropLogin .signArr q {display:none}
+.dropLogin .dropD {right:-55px;margin-top:4px;border:4px solid #1B8DA9;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;-webkit-border-top-right-radius:0;-moz-border-radius-topright:0;border-radius-topright:0}

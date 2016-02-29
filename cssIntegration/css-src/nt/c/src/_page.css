@@ -1,0 +1,25 @@
+.page {clear:both;height:25px;margin:10px 12px;font-size:12px;text-align:right;white-space:nowrap}
+.page {font-size:12px;font-family:"\5b8b\4f53";color:#333}
+.pg { background:url(//builder.oliv.cn/img/1/022.png) repeat-x}
+.pg {overflow:hidden;display:inline-block;height:18px;padding:0 5px 0 6px;margin:0 3px 2px 2px;border:1px solid #83c2e6;text-decoration:none;vertical-align:top;color:#0082CB;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px}
+.page em {padding:0 1px 0 0;color:#dadada; word-spacing:-5px}
+.page em a {color:#ababab}
+a.pg:hover {border-color:#0082cb;text-decoration:none}
+.pgEps {margin:0 2px 0 0;font-size:12px;font-family:Tahoma; color:#999}
+
+.page .on {border-color:#0082cb!important;font-weight:bold;color:#fff!important; background:#0082CB;cursor:default}
+.page .dis {color:#b2b8bf!important;border-color:#999!important; text-decoration:none!important;background-position:0 -20px!important;cursor:default}
+.page .dis .ii {}
+
+.page .sign {margin:4px 0 0; vertical-align:top}
+.pg .signArr4 {margin-right:1px}
+.pg .signArr5 {margin-left:3px}
+
+.page2 {}
+
+
+.page2 {padding:3px 0 0;border:none;height:18px}
+.page2 .pg {height:13px;padding:0 4px 0 5px}
+.page2 .sign {margin:2px 0 0}
+.page2 .pg .signArr4,.page2 .pg .signArr5 {width:4px;height:9px}
+.page2 .pg .signArr5 q {left:5px}

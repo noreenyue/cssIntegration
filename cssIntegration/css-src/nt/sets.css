@@ -1,0 +1,230 @@
+
+.frmTip {width:197px; font-weight:normal; font-size:12px; visibility:hidden; position:relative; top:-1px}
+.frmTip,.frmTip b {background-image:url(//builder.oliv.cn/img/2/006.png); background-repeat:no-repeat}
+.frmTip {background-position:-200px bottom; width:197px; margin:0 0 -50px 14px; color:#ff7200}
+.frmTip b { background-position:0 0; padding:5px 10px 5px 15px; display:inline-block;*display:inline;*zoom:1; width:172px}
+.frm_ok .frmTip{ background:none; visibility:visible}
+.frm_ok .frmTip b{display:none}
+.frm_err .frmTip {visibility:visible}
+.frm_hint .frmTip {visibility:visible}
+
+.mainInner .tabsM{ border-bottom:1px solid #f1f1f1 }
+
+.tabs { margin:0 -7px 0 -9px}
+.tabs2 { padding:0 18px}
+.tabs2 li .fuc {line-height:30px; margin-left:10px}
+.ap h4{margin-left:0;margin-right:0; border:none}
+
+.sideBar .ap{ margin:0 5px}
+
+.sideBar h4{padding:5px 0; border-top:none}
+.extrTip{ padding-top:15px}
+.sideBar dd{font-size:12px; color:#666; padding-bottom:5px}
+.sideBar dt{color:#999; padding:0 0 10px 0}
+.sideBar dt .p2{padding:5px 0}
+.sideBar .dl1 dt { padding-left:13px}
+.sideBar .usrLabel {border-top:1px solid #e5e5e5;}
+.sideBar .usrLabel .usrLi{ padding:10px 0}
+.sideBar .usrLabel .usrLi .usr{padding-bottom:10px}
+.sideBar .usrLabel .usrLi .tags4 {margin:0}
+
+body .mainC .setShow {margin-top:30px; margin-left:10px; margin-right:10px; border:1px solid #e8eced;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px; padding:70px 30px 25px 30px; background-image:url(//builder.oliv.cn/img/2/005.jpg); background-repeat:no-repeat}
+.setShow h4 {height:35px; line-height:35px; padding:0 12px; background:url(//s1.cr.itc.cn/img/s/lin/hr_dt_ba.gif) repeat-x left bottom; margin-left:0; margin-right:0; border:none}
+.setShow h4 em {font-weight:bold; color:#666}
+
+/*S bindBlog */
+.bindBlog {background-position:0 0}
+.blogs a,.bindli li {background:url(//s2.cr.itc.cn/img/t/059.png) no-repeat}
+.blogs li {width:153px;height:60px;margin:20px 8px 0 12px;*margin-right:12px;text-align:center;display:inline-block;*display:inline;*zoom:1}
+.blogs a {display:block;height:100%}
+.blogs a:hover {text-decoration:none}
+.blogs .ii {width:140px;height:60px;margin:0;background:url(//s2.cr.itc.cn/img/t/060.png) no-repeat}
+.blogSina .ii {background-position:0 -60px!important}
+.blog163 .ii {background-position:0 -120px!important}
+.blogQQ .ii {background-position:0 -180px!important}
+.blogBaidu .ii {background-position:0 -240px!important}
+.blogLive .ii {background-position:0 -300px!important}
+.blogRss .ii {background-position:0 -360px!important}
+.binded{ padding:20px 0 0 180px;}
+.binded .blog {display:block;width:153px;height:60px; margin:0 0 -60px -170px;}
+.binded .blog a{display:block; height:100%;background:url(//s2.cr.itc.cn/img/t/059.png) no-repeat}
+.binded .blog a .ii{width:140px;height:60px;margin:0;background:url(//s2.cr.itc.cn/img/t/060.png) no-repeat}
+.binded .cite {font-size:14px; font-family:Tahoma; padding-bottom:8px}
+
+.bindBlogFrm { margin-top:20px}
+.bindBlogFrm h4 { background:url(//s1.cr.itc.cn/img/s/lin/hr_dt_ba.gif) repeat-x left bottom; height:35px; line-height:35px; padding:0 12px}
+.bindBlogFrm h4 em{font-weight:bold; color:#666}
+.bindBlogFrm .frm{padding-left:70px; color:#666}
+.bindBlogFrm .frmWarn { padding-left:18px; margin:0}
+.bindBlogFrm .frm .frmT{width:220px;margin-left:-220px}
+.bindBlogFrm .frmBindblog .txt{margin-right:6px}
+.bindBlogFrm .frmBindblog .txt input{width:220px}
+.bindBlogFrm .frmBindblog q{ padding:0; font-family:Tahoma}
+
+/* E bind Blog */
+
+/*S bMobi */
+.bMobi {background-position:-650px 0}
+.bMobi .frm{padding-left:170px;}
+.bMobi .frmBindM .frmT{width:170px; margin-left:-170px}
+.bMobi .frmBindM .txt input{width:160px}
+.bMobi .frmTip,.bMobi .frmTip b {background-image:url(//builder.oliv.cn/img/2/006.png); background-repeat:no-repeat}
+.bMobi .frmTip {background-position:-200px bottom; width:197px; margin-top:0; margin-left:14px; color:#ff7200}
+.bMobi .frmTip b { background-position:0 0; padding:5px 10px 5px 15px; display:inline-block;*display:inline;*zoom:1}
+.bMobi .frm_ok .frmTip{ background:none}
+.bMobi .frm_ok b{ display:none}
+
+.bmobi_err{margin-left:20px}
+.bmobi_err .p1{ font-size:14px; color:#ff7200}
+.bmobi_err .p2{ line-height:18px; padding:3px 0 10px}
+.bmobi_err .fuc{line-height:30px}
+.bmobi_err .p3{ color:#999}
+.bmobi_ok {padding-left:40px; background:url(//builder.oliv.cn/img/2/007.png) no-repeat 0 4px; margin-top:10px; line-height:22px}
+.bmobi_ok .p1 {font-size:14px; padding-bottom:3px;}
+.bmobi_ok .p2 b{font-weight:bold; padding:0 3px}
+.bmobi_ok .p3 {padding-top:10px}
+
+.bindWay {margin-top:20px}
+.bindWay h4 { height:30px; line-height:30px; background:url(//s1.cr.itc.cn/img/s/lin/hr_dt_ba.gif) repeat-x left bottom; padding:0 12px}
+.bindWay h4 em {font-weight:14px; font-weight:bold}
+.mobiway dl{width:257px;border:1px solid #f2f2f2; -moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px; display:inline-block; *display:inline; *zoom:1; background:#f9f9f9}
+.mobiway dt {height:36px; line-height:36px; padding-left:16px; font-size:14px}
+.mobiway dt p{ display:inline; padding:0 28px 0 0; background:url(//s3.cr.itc.cn/img/t/138.png) no-repeat right 4px }
+.mobiway dd {background:#fff; padding:10px 16px 12px; font-size:12px;line-height:30px;}
+.mobiway dd b {font-family:arial; font-size:18px; font-style:italic; padding-left:5px; position:relative; top:2px }
+.mobiway .t1{margin:20px}
+/*E bMobi */
+
+/*S 设置提醒 基本隐私*/
+.pTip .form4 .rado {width:110px}
+.pTip .form4 .cbox {width:11em;height: 24px;line-height: 23px;margin: 0 0 5px;overflow: hidden;vertical-align: top;white-space: normal}
+/*E 设置提醒  基本隐私*/
+
+
+/*S 个人资料*/
+.frmNm .txt input { width:140px}
+.frmMail .txt input {width:224px}
+.frmDesc .post {width:400px}
+.pUnits .frmWarn .frmC{font-size:12px; color:#999}
+.frmUnit .txt input{width:224px}
+.pUnits .frmSubmit {border-top:1px solid #e5e5e5; padding-top:20px} 
+/*E 个人资料*/
+
+
+/*S 教育信息*/
+.pUnits h4 {height:35px;line-height:35px;background:url(//s1.cr.itc.cn/img/s/lin/hr_dt_ba.gif) repeat-x bottom;padding:0 10px; margin-top:20px}
+.pUnits h4 em{font-weight:bold;}
+.unitli strong {padding:0 0 0 13px;font-size:14px;font-weight:normal;line-height:21px;margin:0 170px 8px 0;display:inline-block}
+.unitli strong em {padding-right:10px}
+.unitli li {zoom:1;min-height:21px;_height:21px;padding:8px 0 0 0;background:url(//s1.cr.itc.cn/img/s/lin/hr_dt_ba.gif) repeat-x bottom}
+.unitli li .tm {display:inline-block;*display:inline;*zoom:1; font-size:12px}
+.unitli strong,.unitli .tm,.unitli .opt {z-index:3;position:relative;background:none}
+.unitli .hover {background-color:#ebf9fa}
+.unitli .opt {top:1px;left:100%;overflow:hidden;width:120px;height:29px;margin:0 0 -29px -136px; text-align:right}
+.unitli .opt .tag {float:right}
+.unitli .unit_detail {position:relative;*zoom:1;padding:46px 0 3px 2px;border:1px solid #e8e8e8;margin:-45px -2px 0;background:#f8f8f8 url(//s3.cr.itc.cn/img/t/369.gif) repeat-x center 37px}
+.unitli .total {margin:0 13px 6px;color:#999}
+.unitli .total q {font-weight:bold}
+.unitli .unit_detail .ulist { margin:0 13px}
+.unitli .ulist .pf {margin-left:12px}
+.unitli .weaklight { height:23px; overflow:hidden}
+.unitli .fucs2 {padding:0 12px 3px}
+.unitli li .ii {background:url(//s2.cr.itc.cn/img/i2/t/118.gif) no-repeat;margin-bottom:0}
+
+/*E 教育信息*/
+
+/*S 个人标签*/
+.flags .c a,.labels li,.allabels dt,.labels a {display:inline-block;*display:inline;*zoom:1}
+.mylabel {margin-top:20px}
+.mylabel h4{ height:35px; line-height:35px; padding:0 12px; background:url(//s1.cr.itc.cn/img/s/lin/hr_dt_ba.gif) repeat-x left bottom}
+.mylabel h4 em{font-weight:bold; font-size:14px;}
+.mylabels .labels {border:1px dashed #bbb; background:#f9f9f9; margin-left:70px; min-height:54px; padding:7px 9px 7px 5px}
+.labels li {overflow:hidden;height:20px;margin:2px 0 2px 4px;border:1px solid #f4f4f4;line-height:20px;vertical-align:top;background:#eaeaea}
+.labels a {height:100%;padding:0 7px;color:#666!important;text-decoration:none!important}
+.labels .ii {display:none;width:20px;height:20px;margin:0;vertical-align:top;background:#fff url(//s3.cr.itc.cn/img/t/315.gif) no-repeat center;cursor:pointer}
+.labels .hover {position:relative;margin-right:-20px;border-color:#84b2c5;background:#d8eef7;-moz-box-shadow:1px 1px 0 #ebebeb;-webkit-box-shadow:1px 1px 0 #ebebeb;box-shadow:1px 1px 0 #ebebeb;filter:progid:DXImageTransform.Microsoft.dropshadow(OffX=1,OffY=1,Color='#96dddddd')}
+.labels .hover .ii {display:inline-block}
+
+.mylabels {min-height:54px;_height:54px;margin:0 12px; padding-left:70px}
+.mylabels .avt{margin:0 0 -48px -48px; position:relative; left:-15px;}
+.mylabels .noCnt {height:37px;padding:15px 0 0;margin:0;border:1px dashed #d4d4d4;background:#f9f9f9}
+.mylabels .noCnt .ttl {font-size:12px;text-align:center;color:#999}
+.mylabels .labels {margin:0}
+.labelNum { padding:8px 0}
+.labelNum b{font-weight:bold}
+
+.allabels {height:290px;margin:25px 0 0 -4px}
+.allabels dt {position:relative;left:15px;height:42px;line-height:32px;*line-height:34px;margin:0 0 -15px 4px;*margin-right:4px;vertical-align:top;font-size:14px;text-align:center;color:#fff;background:url(//builder.oliv.cn/img/2/008.png) no-repeat; padding-left:5px}
+.allabels dt em {display:block;height:32px;cursor:pointer; background:url(//builder.oliv.cn/img/2/008.png) no-repeat; background-position:right -50px; padding-right:16px; padding-left:11px}
+.allabels .t2 {background-position:0 -100px}
+.allabels .t2 em{background-position:right -150px}
+.allabels .t3 {background-position:0 -200px}
+.allabels .t3 em {background-position:right -250px}
+.allabels .t4 {background-position:0 -300px}
+.allabels .t4 em {background-position:right -350px}
+
+.allabels .on {z-index:2;margin-left:1px;margin-right:-3px;*margin-right:1px;color:#464646;background-position:0 -400px!important}
+.allabels .on em { background-position:right -450px!important; height:40px}
+
+.allabels dd {z-index:1;position:relative;height:230px;padding:25px 46px 0 34px;background:url(//builder.oliv.cn/img/2/009.png) no-repeat;_background:url(//builder.oliv.cn/img/2/009_ie.png) no-repeat}
+.allabels .labels {height:120px}
+.allabels .labels li {height:26px;border-color:#d8eef7;font-size:14px;background:#d8eef7}
+.allabels .labels a {height:24px;padding:0 16px;line-height:24px;border:1px solid #d8eef7;color:#3787a9!important;text-decoration:none!important}
+.allabels .labels .ii {display:none}
+.allabels .labels .hover {margin-right:0;border-color:#0d6fad;background:url(//s2.cr.itc.cn/img/t/318.png) repeat-x;-moz-box-shadow:1px 1px 1px #acc4d2;-webkit-box-shadow:1px 1px 1px #acc4d2;box-shadow:1px 1px 1px #acc4d2;filter:progid:DXImageTransform.Microsoft.dropshadow(OffX=1,OffY=1,Color='#aaacc4d2')}
+.allabels .labels .hover a {border-color:#61a6d2;color:#fff!important}
+.allabels dd .labels .selected {border-color:#f4f4f4;background:#f4f4f4;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;filter:none}
+.allabels dd .labels .selected a {border-color:#f4f4f4;color:#a8a8a8!important;cursor:default}
+.allabels .txt {margin-right:6px;margin-left:4px}
+.allabels .txt input {width:100px}
+.allabels .btns { padding-top:20px; background:url(//s1.cr.itc.cn/img/s/lin/hr_dt_ba.gif) repeat-x}
+/*E 个人标签*/
+
+/*S 个人头像*/
+.pAvt .pAvtC {height:380px; padding-top:20px}
+.pAvt .pAvtC h4 { line-height:30px; background:url(//s1.cr.itc.cn/img/s/lin/hr_dt_ba.gif) repeat-x left bottom; margin-bottom:15px}
+.pAvt .pAvtC h4 em{ font-weight:bold; font-size:14px; padding:9px; }
+.pAvtPre { width:200px; height:250px; margin:0 0 -250px -200px; position:relative; left:200px; top:0}
+.pAvtPre .avt{ margin:10px}
+.pAvtUp { margin-left:210px; margin-bottom:15px}
+.pAvtUp .c{ margin:0 0 0 10px}
+.pAvtCon { margin-left:220px; border:1px solid #f2f2f2; background:#f6f6f6; -moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px; padding:0 19px 10px; float:left; display:inline}
+.pAvtCon .ttl{height:30px; line-height:30px; font-size:12px}
+.pAvtCon .oper{text-align:center; padding:10px 0 0 0}
+.pAvt .btns {border-top:1px solid #e5e5e5; padding:20px 0 0 10px}
+/*E 个人头像*/
+
+/*S 个性域名*/
+.pDomain{ background-position:-1310px 0}
+.pDomainT { background:url(//s1.cr.itc.cn/img/s/lin/hr_dt_ba.gif) repeat-x left bottom; height:27px; padding:8px 8px 0}
+.pDomain fieldset{ padding:0}
+.pDomain .frm {padding-left:68px}
+.pDomain .frmWarn{ padding:0; background:url(//s1.cr.itc.cn/img/s/lin/hr_dt_ba.gif) repeat-x left bottom;}
+.pDomain .frmWarn .frmC{font-size:12px; padding:0 8px}
+.frmDomain .frmT{font-weight:bold}
+.frmDomain .frmC{font-weight:bold}
+.frmDomain .frmC .txt input{width:180px}
+.frmDomain .frmC q{font-weight:bold; padding-left:6px}
+.frmDomain .frmC .frmTip { width:197px; font-weight:normal; font-size:12px}
+.pDomain .frmTip,.pDomain .frmTip b {background-image:url(//builder.oliv.cn/img/2/006.png); background-repeat:no-repeat}
+.pDomain .frmTip {background-position:-200px bottom; width:197px; margin:0 0 -50px 14px; color:#ff7200}
+.pDomain .frmTip b { background-position:0 0; padding:5px 10px 5px 15px; display:inline-block;*display:inline;*zoom:1; width:172px}
+.pDomain .frm_ok .frmTip{ background:none}
+.pDomain .frm_ok .frmTip b{display:none}
+.pDomainF { padding:10px 8px; font-size:14px;}
+.pDomainF b{font-weight:bold; padding:0 8px}
+/*E 个性域名*/
+
+/*S 黑名单*/
+.blackList .tip{ color:#999; padding:25px 20px 15px}
+.blackList h4 {margin:0; padding-bottom:10px; border:none}
+.blackList h4 em{ font-weight:bold}
+.blackList h4 b{ padding:0 5px}
+.blackList h4 b q{font-weight:bold; padding:0 5px}
+.blackList ul li{ background:url(//s1.cr.itc.cn/img/s/lin/hr_dt_ba.gif) repeat-x left bottom; height:40px; clear:both; padding:0 25px 0 15px}
+.blackList ul li .opt{ float:right; line-height:40px}
+.blackList ul li .nm{ width:180px; overflow:hidden;line-height:40px; margin-right:10px; font-size:14px;}
+.blackList ul li .tm{display:inline-block; *display:inline; *zoom:1;line-height:40px; vertical-align:top}
+.blackList ul li.tit{ color:#666!important; background:#f4f4f4; border-bottom:1px solid #e8e8e8; height:35px;}
+.blackList ul li.tit .tm{color:#666;}
+/*E 黑名单*/

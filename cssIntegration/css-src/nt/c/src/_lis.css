@@ -1,0 +1,9 @@
+.lis li {padding:0 12px 0 12px;word-wrap:break-word; vertical-align:top}
+.lis .dot { left:-5px; position:relative;margin-left:-2px;margin-right:0}
+.lis .pgc {padding:6px 9px;margin:5px 0 0 -5px;border:1px solid #C1E6EA; line-height:1.5;background:#FAFEFF; color:#999}
+.lis .pgc a { display:block; height:auto; color:#999}
+.lis .pgc a:hover { text-decoration:none}
+.lis .signArr {left:6px;top:-11px;width:12px;height:5px;margin:0 0 -5px}
+.lis .signArr .k2 { color:#FAFEFF}
+
+.aside .lis li {display:inline-block;*display:inline;*zoom:1;margin:0 -4px 0 -5px;*margin-right:0;width:44.7%}

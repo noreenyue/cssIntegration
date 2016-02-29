@@ -1,0 +1,32 @@
+.mwMsg .post .tarea textarea {height:60px}
+
+.usrSelector .txt{display:inline-block;}
+.usrSelector .txt input{width:170px;margin:0;background:#fff;}
+.usrSelector .txt_act input{width:240px;}
+
+.usrSelector .dropDown{*left:0;*top:10px;*margin:0 0 0 -197px;_margin:0 0 0 -190px;}
+.usrSelector .dropDown .dropD{border-style:none;}
+.usrSelector .dropDown .dropL a{width:auto;padding:2px 5px 2px 12px;}
+.usrSelector .dropDown .dropL .org{color:#FF7200;}
+.usrSelector .dropDown .dropL a:hover .org{color:#fff;}
+
+.usrSelector .j2 {left:-20px;top:3px;*top:0px;position:relative;}
+
+.usrSelector .options{z-index:10;left:0;}
+.usrSelector .option{width:176px;}
+
+.nms {padding:3px 3px 2px}
+.nms .c {overflow:hidden;overflow-y:auto;height:130px}
+.nms .nm {overflow:hidden;width:70px;margin:5px -4px 1px 5px;*margin-top:6px;vertical-align:top}
+.nms .nm a {display:inline-block;padding:0 5px}
+.nms .nm a:hover {color:#fff!important;background-color:#858585;text-decoration:none}
+.nms q {color:#999}
+.nms .noSend a{color:#999;cursor:default;}
+.nms .noSend a:hover{color:#999!important;background:none;}
+
+.usrSelector .dropUsrSel .dropD{border:1px solid #D8D8D8;}
+.dropUsrSel .dropC{ width: 248px;white-space:normal;}
+.dropUsrSel .dropT {*width:248px;background:#F0F4F5;border-bottom: 1px solid #E0E0E0;color: #666666;height: 28px;line-height: 28px;padding:0;}
+.dropUsrSel .close{top:7px;margin:0 0 -20px -25px;}
+
+.usrSelector .frmTip{margin:2px 0 -50px 0;}

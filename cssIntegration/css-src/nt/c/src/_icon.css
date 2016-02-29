@@ -1,0 +1,173 @@
+/*S icon*/
+.i,.ii,.p,.add,.add q,.dot,.sign {overflow:hidden;display:inline-block;line-height:0!important;text-decoration:none!important}
+
+.i,.ii,.p {width:16px;height:16px;margin-bottom:0.25em;vertical-align:middle}
+.i {background:url(//builder.oliv.cn/img/1/018.png) no-repeat}
+.ii {background-repeat:no-repeat}
+.iH {width:20px;height:20px;background-image:url(//builder.oliv.cn/img/1/007.png)}
+
+.i3 {background:#369}
+.i4 {background-position:0 -325px}
+.i4_hover {background-position:-25px -325px}
+.tab .i4,.tab .i4_hover {padding:0 0 5px;margin:0 0 -5px}
+.i5 {width:18px;height:18px;background-position:0 -300px}
+a:hover .i5 {background-position:-25px -300px}
+.act .i5 {background-position:-50px -300px}
+a.act:hover .i5 {background-position:-75px -300px}
+.i6 { background:#9cf}
+a:hover .i6 { background:#369}
+.i7 { background:#9cf}
+a:hover .i7 { background:#369}
+
+
+.i36 {width:13px;background-position:0 -175px}
+a:hover .i36 {background-position:-25px -175px}
+.i37 {width:11px;background-position:-50px -175px}
+a:hover .i37 {background-position:-75px -175px}
+.i38 {width:11px;background-position:-150px -75px}
+a:hover .i38 {background-position:-175px -75px}
+.i40 {width:12px;background-position:0 -250px}
+a:hover .i40 {background-position:-25px -250px}
+.i41 {width:12px;background-position:-100px -100px}
+.i42 {background-position:-125px -175px}
+.i43 {width:13px;background-position:-100px -225px}
+.i44 {background-position:-50px -250px}
+
+
+.i46 {background-position:-25px 0}
+
+.i48 {background-position:0 0}
+.i49 {background-position:0 -25px}
+.i50 {background-position:-100px 0}
+.i50_on {background-position:-125px 0}
+.i52 {background-position:-125px -225px}
+.i53 {background-image:url(//s3.cr.itc.cn/img/t/ico_png24.png);_background-image:url(//s3.cr.itc.cn/img/t/ico_png8.png)}
+.i53 {width:7px;background-position:0 0}
+a:hover .i53 {background-position:-25px 0}
+a.lbs:hover .i53,
+.i53_act {background-position:-50px 0!important}
+.i54 {width:10px;background-position:-100px -125px}
+a:hover .i54 {background-position:-125px -125px}
+.i55 {background-position:-125px -100px}
+.i56 {background-position:-25px -25px}
+.i59 {background-position:-150px -150px}
+.i60 {background-position:-175px -150px}
+.i61 {background-position:-200px -150px}
+.i62 {background-position:-150px -200px}
+a:hover .i62 {background-position:-175px -200px}
+.i63 {background-position:-50px -275px}
+a:hover .i63 {background-position:-75px -275px}
+.btn .i63 {background-position:-150px -225px}
+a.btn:hover .i63 {background-position:-175px -225px}
+
+.i66 {background-position:-25px 0}
+.i67 {background-position:-50px 0}
+.i67_txt {width:18px!important;padding:0 0 0 2px;font-size:10px;font-family:Arial;line-height:19px!important;background-position:-75px 0;color:#fff;-webkit-text-size-adjust:none}
+.i68 {background-position:-50px -25px}
+.i69 {background-position:-75px -25px}
+
+.i100 {width:18px;height:18px;background-position:-100px -300px}
+a:hover .i100 {background-position:-125px -300px}
+.twi_act:active .i100,a:active .i100,
+.twi_hover:active .i100,a:active .i100 {background-position:-150px -300px}
+.twi_act .i100 {background-position:-100px -325px}
+.twi_act a:hover .i100 {background-position:-125px -325px}
+.twi_act:active .i100,.twi_act a:active .i100 {background-position:-150px -325px}
+
+.iSms {width:17px;background-position:-125px -250px}
+a:hover .iSms {background-position:-150px -250px}
+.iWq {top:2px;position:relative;width:20px;background-position:-50px 0;*vertical-align:auto}
+.iVdo {background-position:-100px -175px}
+.iRss {background-position:-125px -150px}
+.iMobi {background-position:-50px -25px}
+.iAim {width:25px;margin:0 5px 0 0;*margin-bottom:0.1em;background-position:-100px -75px}
+.iDel {width:10px;background-position:-50px -150px}
+.iDel2 {background-position:-200px -75px}
+.iDel3 {background-position:-100px -150px}
+a:hover .iDel2 {background-position:-225px -75px}
+a:hover .iDel3 {background-position:-72px -150px}
+.iFlush {margin:0 0 1px\0;background-position:-150px -125px}
+.iEmpty {width:10px;background-position:-50px -150px}
+a:hover .iEmpty {background-position:-75px -150px}
+.iMale,
+.iFemale {background-position:0 -25px}
+.iMale {background-position:-25px -25px}
+.iEachother {width:37px;background-position:-100px -25px}
+.iAdded {background-position:-100px -50px}
+i.iLoading,.iLoading2 {background:url(//s1.cr.itc.cn/img/s/ico/0178.gif) no-repeat 0}
+.iSug,
+.iReport {background-position:-175px -125px}
+.iOk {background-position:-200px -25px}
+.iOk2 {background-position:-150px -25px}
+.iErr {background-position:-175px -25px}
+.iPriv,.iLock {background-position:-200px -125px}
+.iUnlock {background-position:-225px -125px}
+.iJoined {width:18px;margin-right:6px;background-position:-50px -75px}
+.iJoined2 {width:20px;margin-right:3px;background-position:-75px -75px}
+.iPost {width:12px;background-position:-150px -50px}
+a:hover .iPost {background-position:-175px -50px}
+.iCw {width:16px;background-position:-50px -225px}
+.iCcw {width:12px;background-position:-75px -225px}
+.iSet {background-position:0 -225px}
+a:hover .iSet {background-position:0 -225px}
+.iall {width:19px;margin-bottom:0.2em;background:url(//s3.cr.itc.cn/img/t/437.png) no-repeat 0 -51px}
+a:hover .iall {background-position:-25px -51px}
+.iall_act {background-position:0 -101px}
+a:hover .iall_act {background-position:-25px -101px}
+
+
+	/* png24 */
+.p .png {width:100px;height:100px;background:url(//s2.cr.itc.cn/img/t/264.png) no-repeat;_background:none!important}
+.pVer {margin-bottom:0.2em}
+.pVer .png {width:152px;height:42px;background-image:url(//builder.oliv.cn/img/1/023.png);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//builder.oliv.cn/img/1/023.png',sizingMethod='crop')}
+.pVer2 {width:26px;height:26px}
+.pVer2 .png {margin:-16px 0 0}
+.pVer3 {width:126px;height:25px}
+.pVer3 .png {margin:-16px 0 0 -26px}
+/*.usrStat .pVer {width:26px;height:26px}
+.usrStat .pVer .png {margin:-16px 0 0}
+.usrStat2 .pVer {width:126px;height:25px}
+.usrStat2 .pVer .png {margin:-16px 0 0 -26px}*/
+
+.navi .p .png {width:29px;height:120px;background-image:url(//builder.oliv.cn/img/1/020.png);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//builder.oliv.cn/img/1/020.png',sizingMethod='crop')}
+.navi .t2 .png {margin:-30px 0 0}
+.navi .t3 .png {margin:-60px 0 0}
+.navi .t4 .png {margin:-90px 0 0}
+
+
+	/* by html & text */
+.dot {width:2px;height:2px;margin:3px 5px;background:#666}
+.add {width:8px; height:8px;margin:0 2px}
+.add q {display:block;background:#2BADD7}
+.add .k1 {width:8px;height:2px;margin:3px 0 -5px}
+.add .k2 {width:2px;height:8px;margin:0 0 0 3px}
+
+.sign {position:relative;width:12px;height:12px;text-align:left}
+.sign q {left:12px;position:relative;display:block;width:12px;height:12px;margin:0 0 -12px -12px;font-size:12px; line-height:12px;font-family:"\5b8b\4f53"}
+.sign .k2 {top:1px}
+.signX {font-weight:bold}
+.signArr {position:relative;display:block;width:12px;height:6px;color:#C1E6EA; font-size-adjust:0.4}
+.signArr2 {width:12px;height:4px}
+.signArr2 q,.signArr2 .k2 {left:12px;top:-7px}
+
+.signArr3{width:10px;height:12px}
+.signArr3 q{height:12px;margin-left:-13px;overflow:hidden;top:-5px;line-height:12px; vertical-align:top;font-weight:bold}
+.signArr3 q.k2{height:6px;top:4px;height:7px\9;top:3px\9;font-size:14px;margin-left:-14px}
+.signArr3_act{width:10px;height:10px}
+.signArr3_act q{height:12px;margin-left:-13px;overflow:hidden;top:4px;line-height:12px;vertical-align:top;font-weight:bold}
+.signArr3_act q.k2{height:12px;top:-5px;top:-6px\9;font-size:14px;margin-left:-14px}
+.fuc .signArr3 {margin:0 0 0.25em; vertical-align:middle}
+
+.signArr4,.signArr5 {width:5px;height:10px}
+.signArr4 q {left:12px;top:0px}
+.signArr5 q {left:6px;top:0px}
+
+
+.signArr6{width:10px;height:12px}
+.signArr6 q{height:12px;margin-left:-13px;overflow:hidden;top:-5px;line-height:12px; vertical-align:top}
+.signArr6 q.k2{height:6px;top:4px;height:7px\9;top:3px\9;font-size:14px;margin-left:-14px}
+.signArr6_act{width:10px;height:10px}
+.signArr6_act q{height:12px;margin-left:-13px;overflow:hidden;top:4px;line-height:12px;vertical-align:top}
+.signArr6_act q.k2{height:12px;top:-5px;top:-6px\9;font-size:14px;margin-left:-14px}
+.fuc .signArr6 {margin:0 0 0.25em; vertical-align:middle}
+/*E icon*/

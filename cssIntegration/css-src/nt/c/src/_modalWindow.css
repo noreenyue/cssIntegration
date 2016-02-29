@@ -1,0 +1,38 @@
+.mw { visibility:visible;z-index:9999;position:absolute;width:500px;margin:5px;_border:5px solid #b5bbbf;_margin:0;color:#666;}
+.mwDc{_display:none;position:absolute;z-index:-1;width:100%;height:100%;margin:-5px;padding:5px;*padding:6px;-moz-border-radius:5px;-webkit-border-radius:5px;-khtml-border-radius:5px;background:#838d93;-moz-opacity:0.5;opacity:.50;filter:alpha(opacity=50);}
+.mwCt{position:relative;z-index:0;_height:150px;min-height:150px;margin:-1px;border:1px solid #a5aaad;background:#fff;-moz-border-radius:3px;-webkit-border-radius:3px;-khtml-border-radius:3px;}
+.mwHd{height:33px;color:#444;background:#f3f3f3;border:1px solid #669bb7;border-color:#fafafa #f3f3f3 #dadada #f3f3f3;color:#666;-moz-border-radius:3px 3px 0 0;-webkit-border-radius:3px 3px 0 0;-khtml-border-radius:3px 3px 0 0;cursor:move}
+.mwHd h4{font-size:14px;font-weight:bold;padding:5px 0 0 15px;}
+.mwHd .nm {margin:0 3px; font-weight:bold}
+.mwCt .close{top:8px;top:11px\9;height:20px;width:20px;margin:0 0 -20px -28px;margin:0 0 -20px -38px\9;}
+.mwCt .close .sign q,.mwCt .close .sign .k2{font-size:14px;}
+.mwCt a.close:hover{text-decoration:none;}
+.mwBd{padding:15px 25px;min-height:60px;_height:60px;}
+.mwFt{padding:10px 25px;background:#f7f7f7;text-align:right;-moz-border-radius:0 0 3px 3px;-webkit-border-radius:0 0 3px 3px;-khtml-border-radius:0 0 3px 3px;}
+.mwFt .btn{margin:0 0 0 6px;}
+.maskLayer{position:fixed;_position:absolute;top:0;left:0;z-index:9000;width:100%;height:100%;}
+
+.mwPost .tarea textarea {height:60px}
+
+.mw2 {width:400px}
+.mw3 {width:648px}
+
+/*S mini*/
+.mwMini{width:180px;height:60px;}
+.mwMini .mwHd,.mwMini .mwFt{display:none;}
+.mwMini .mwCt{min-height:60px;_height:60px;text-align:center;}
+.mwMini .mwBd{padding:0 0 0 72px;line-height:60px;font-size:16px;font-weight:bold;color:#666;}
+.mwMiniOk  .mwBd{background:url(//s9.cr.itc.cn/img/4/002.jpg) no-repeat;}
+.mwMiniFail .mwBd{background:url(//s9.cr.itc.cn/img/4/003.jpg) no-repeat;}
+.mwMiniOk .close,.mwMiniFail .close{display:none}
+/*E mini*/
+
+/* S group setting */
+.gpList {padding:8px 10px;border:1px solid #e7e7e7;background:#fbfbfb;-moz-border-radius:3px;-webkit-border-radius:3px;-khtml-border-radius:3px;}
+.gpList ul{margin-bottom:5px;}
+.gpList li{width:32.5%;display:inline-block;*display:inline;*zoom:1;margin:2px 0 3px 0;vertical-align:top;*vertical-align:auto}
+.gpList .btnM b{padding:0 10px 0 8px;}
+.gpCreate .btn i{font-weight:bold;}
+.gpAdd .txt input{width:170px}
+.gpAdd .btn {margin-left:6px}
+/*E group setting */

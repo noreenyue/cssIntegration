@@ -1,0 +1,15 @@
+.tags {*zoom:1;display:block;text-align:left!important}
+.tag {display:inline-block;*display:inline;padding:0 7px 0 0;margin:0 6px 0 0;padding:0 0 0 7px\9;margin:0 0 0 6px\9;_padding:0 0 0 7px;_margin:0 0 0 5px;_text-indent:-12px;white-space:nowrap; vertical-align:top;background:url(//s1.cr.itc.cn/img/s/lin/vr_sd_c2.gif) no-repeat right;background-position:0\9}
+li.tag:last-child {padding-right:0;margin-right:0;background:none}
+li.tag:first-child {padding-left:0\9;margin-left:0\9;background:none\9}
+.tag .btn {margin-bottom:0}
+.tags .on,.tags .on b {font-weight:bold}
+
+.tags4 {margin:5px 0}
+.tags4 .tag {padding:0 9px 0 0;margin:0 8px 0 0;padding:0 0 0 9px\9;margin:0 0 0 8px\9;_text-indent:-17px}
+
+
+.tagSel .tags {display:inline-block;*display:inline;*zoom:1;vertical-align:top;*vertical-align:auto}
+
+/* senses */
+.usrPanel .tag {padding:0 4px 0 0;margin:0 3px 0 0;padding:0 0 0 4px\9;margin:0 0 0 3px\9;_text-indent:-7px}

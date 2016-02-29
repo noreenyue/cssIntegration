@@ -1,0 +1,68 @@
+.mwTheme .mwHd {border:0}
+.mwTheme .tabs2 {padding:9px 15px 0; margin:-15px -10px 15px -10px}
+.mwTheme .mwBd {padding:15px 10px 11px}
+.mwTheme .selected .png {visibility:visible}
+.mwTheme .selected img {border:2px solid #14AC14;margin:0}
+.mwTheme .page {margin:0;border-top:1px solid #e5e5e5;text-align:center;padding:9px 0 0;height:auto}
+.themes .page .pg .signArr5 {margin-left:1px}
+
+.themes { padding:5px 0 7px 5px}
+.themes li {width:106px;margin:0 4px 12px 8px;*margin-right:8px;vertical-align:top;display:inline-block;*display:inline;*zoom:1}
+.themes a img {display:block;border:1px solid #c9cbc7;margin:1px;padding:1px;width:100px;height:69px}
+.themes a:hover {text-decoration:none}
+.themes a:hover img {margin:0;border:2px solid #14ac14}
+.themes .png {position:relative;visibility:hidden;width:17px;height:17px;margin:0 0 -17px -17px;background:url(//s2.cr.itc.cn/img/t/159.png) no-repeat;top:53px;left:101px}
+.themes li em {display:block;height:20px;overflow:hidden;text-align:center}
+
+.themePara {background:url(//builder.oliv.cn/img/2/012.gif) repeat-y left 0}
+.themePara h4 {padding:0 0 7px 0;height:20px}
+.themePara h4 em {font-size:12px;font-weight:bold}
+.themePara .themesB .c .png {top:23px;left:40px}
+.themePara .form2 {height:120px}
+.themePara .form2 fieldset {padding:0 10px;width:150px;float:left;margin-top:7px;height:112px}
+.themePara .form2 .frm {margin:0 0 5px 0;padding:0}
+.themePara .form2 .f1 {background:url(//builder.oliv.cn/img/2/012.gif) repeat-y;padding-right:0;width:160px}
+.themePara .form2 .f1 .frm {padding-left:62px;height:23px}
+.themePara .form2 .f1 .frm .frmT {margin-left:-65px}
+.themePara .form2 .f1 .frm .select input {padding:0 0 1px}
+.themePara .frmWarn {margin:0}
+.themePara .frmWarn .frmC {display:block;line-height:16px;min-height:16px}
+
+.aps .themes {width:260px;height:255px;float:left;padding:0}
+.aps .themes h4 {padding:0 0 7px 8px;height:20px}
+.aps .themes h4 em {font-size:12px;font-weight:bold}
+.aps .themes img {width:100px;height:38px}
+.aps .theme li {margin-bottom:14px}
+.aps .themes .png {left:102px;top:23px}
+.aps .themePara {margin:0 0 0 260px;position:relative;padding:0 5px 0 20px}
+
+.themeUp {height:120px;border:1px solid #e5e5e5;margin-bottom:10px}
+.themePic {overflow:hidden;*zoom:1;border:1px solid #e5e5e5}
+.themePic li {width:44px;margin:0 0 8px 8px;display:inline-block;*display:inline;*zoom:1}
+.themePic h4 {padding:0 8px;height:27px;line-height:27px;font-weight:normal}
+.themePara .themePic h4 em {font-size:12px;font-weight:normal}
+.themePic a img {display:block;border:1px solid #c9cbc7;margin:1px;padding:1px;width:38px;height:38px}
+.themePic a:hover {text-decoration:none}
+.themePic a:hover img {margin:0;border:2px solid #14ac14}
+.themePic .png {position:relative;visibility:hidden;width:17px;height:17px;margin:0 0 -17px -17px;background:url(//s2.cr.itc.cn/img/t/159.png) no-repeat;left:41px;top:24px}
+.themePic .page {padding:3px 0 0;border:none;background:#f8f8f8; height:18px}
+.themePic .page .pg {height:13px;padding:0 4px 0 5px}
+.themePic .page .sign {margin:2px 0 0}
+.themePic .pg .signArr4,.themePic .pg .signArr5 {width:4px;height:9px}
+.themePic .pg .signArr5 q {left:5px}
+
+
+.picUpLoading {height:44px;width:44px}
+.picUpLoading a {border:1px solid #c9cbc7;background:#fff;padding:1px;display:block;margin:1px}
+.picUpLoading .mask {display:block;position:relative;background:#f1f2f2 url(//s1.cr.itc.cn/img/s/ico/0178.gif) no-repeat center center;height:38px;width:38px;opacity:1;filter:none}
+.picUpTip {line-height:16px;padding-bottom:5px}
+.picUpFinish {margin-bottom:5px}
+.picUpFinish a {border:none;padding:0}
+.picUpFinish a img {width:38px;height:38px;background:#fff;padding:1px;border:2px solid #14AC14}
+.picUpFinish .mask {width:38px;height:38px;background:url(//builder.oliv.cn/img/2/014.png) no-repeat;margin-bottom:-38px;top:3px;left:3px;display:block;position:relative}
+.picUpFinish .png {width:17px;height:17px;margin:0 0 -17px -17px;position:relative;background:url(//s2.cr.itc.cn/img/t/159.png) no-repeat;left:40px;top:23px}
+.picUpBtn {margin-bottom:5px}
+
+/*filter*/
+.themes .png {_background:none!important;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//s2.cr.itc.cn/img/t/159.png',sizingMethod='crop')}
+.picUpFinish .mask {_background:none!important;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//builder.oliv.cn/img/2/014.png',sizingMethod='crop')}

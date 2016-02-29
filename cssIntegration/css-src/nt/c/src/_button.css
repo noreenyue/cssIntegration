@@ -1,0 +1,52 @@
+.btn,.btn b {overflow:hidden;font-family:"\5b8b\4f53"}
+.btn {display:inline-block;margin:0 0 0.2em;border:1px solid #3994c6;font-size:14px;vertical-align:middle;white-space:nowrap;background:url(//builder.oliv.cn/img/1/012.png) no-repeat right 0;color:#fff;cursor:pointer;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px}
+.btn b { text-indent:0;display:block;*display:inline;*zoom:1;height:19px;line-height:19px!important;padding:5px 14px 4px 15px;margin:0;*vertical-align:top}
+a.btn:hover {border-color:#36a5e2;background-position:right -50px;text-decoration:none}
+a.btn:hover b {text-decoration:none}
+a.btn:active {border-color:#1d73a2;background-position:right -100px}
+	/* minor */
+.btn_min {border-color:#D1D1D1!important;background-position:right -200px;color:#828588}
+a.btn_min:hover {background-position:right -250px}
+a.btn_min:active {background-position:right -300px}
+	/* disable */
+.btn_dis {border-color:#d1d1d1!important;color:#999!important;background-position:right -150px!important;cursor:default}
+	/* loading */
+.btn_loading { position:relative}
+.btn_loading b { visibility:hidden;*visibility:visible;*color:#c30!important;*background:url(//s1.cr.itc.cn/img/s/ico/0178.gif) no-repeat center!important;*filter:Chroma(color=#cc3300)}
+.btn_loading:after {left:0;top:0; position:absolute;width:100%;height:100%;zoom:1;margin:0;background:url(//s1.cr.itc.cn/img/s/ico/0178.gif) no-repeat center!important;content:""}
+
+/* Mini */
+.btnM {font-size:12px;background-image:url(//builder.oliv.cn/img/1/013.png)}
+.btnM b {padding:2px 9px 2px}
+
+/* mini2 */
+.btnM2 {border-color:#549300!important;font-size:12px;background-image:url(//builder.oliv.cn/img/1/014.png)}
+.btnM2 b {padding:3px 9px 1px}
+.btnM2 .add {margin-right:3px}
+.btnM2 .add q { background:#fff}
+
+/* mini3 */
+.btnM3 {border-color:#d1d1d1!important;font-size:12px;background-image:url(//builder.oliv.cn/img/1/015.png);color:#666}
+.btnM3 b {padding:2px 9px 2px}
+
+.btns .btn {margin-right:10px;vertical-align:top}
+.btns2 {text-align:right}
+.btns2 .btn {margin-left:10px}
+.btns2 .opt {float:left;color:#999}
+.btns3 {position:relative;*zoom:1;text-align:center}
+.btns3 .btn {margin-left:6px;margin-right:6px}
+.btns3 .opt {top:3px;*top:5px;right:0;position:absolute;text-align:right}
+
+
+/* hover vis */
+.btnH {border-color:transparent;font-size:12px;background-image:url(//builder.oliv.cn/img/1/016.png);color:#999;_border-color:#c30;_filter:Chroma(color=#cc3300)}
+.btnH b {padding:3px 4px 1px}
+a.btnH:hover,
+a.btnH:active {border-color:#d7d7d7;color:#666}
+
+
+/* btnDrop */
+.btnH2 {background-image:url(//builder.oliv.cn/img/1/017.png);color:#999}
+.btnH2 b {padding:3px 18px 1px 6px}
+a.btnH2:hover {color:#666}
+.btn_act {z-index:12;position:relative;border-color:#d1d1d1!important; border-bottom-color:#fff!important;color:#666!important;background-position:right -150px!important;color:#666!important;-webkit-border-bottom-right-radius:0;-moz-border-radius-bottomright:0;border-radius-bottomright:0;-webkit-border-bottom-left-radius:0;-moz-border-radius-bottomleft:0;border-radius-bottomleft:0}

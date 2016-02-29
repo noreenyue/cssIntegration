@@ -1,0 +1,20 @@
+.tabs { height:30px;padding:9px 20px 0; margin-top:-1px; background:url(//builder.oliv.cn/img/s/lin/hr_sd_dfe4e6.gif) repeat-x bottom}
+.tabs .opt { float:right;padding:7px 0 0}
+.tabEx {z-index:9;top:-23px;position:relative;float:right;height:20px;margin:0 0 -20px}
+.tabs li {display:inline-block;*display:inline;*zoom:1; margin:0 -3px 0 0;*margin-right:1px; vertical-align:top}
+.tab {display:inline-block;height:19px; line-height:19px!important;padding:5px 9px 4px; margin:1px;color:#999;-webkit-border-top-left-radius:4px;-moz-border-radius-topleft:4px;border-radius-topleft:4px;-webkit-border-top-right-radius:4px;-moz-border-radius-topright:4px;border-radius-topright:4px}
+a.tab:hover {text-decoration:none; background:#e8e8e8}
+.tabs .on {padding-bottom:5px; margin:0; border:1px solid #dfe4e6; border-bottom:0;background:#fff}
+.tabs .on {background:#fff!important;color:#999!important}
+
+.tabsM {margin-top:0; background:none}
+.tabsM .tab {border:0}
+.tabsM .on b {font-weight:bold}
+
+
+.tabs2 li a.tab {height:19px;background-image:url(//builder.oliv.cn/img/2/003.png);background-repeat:no-repeat;background-position:center 0;margin:0px 2px;border:1px solid #c8d2d7;padding:5px 9px 4px;_position:relative; _top:4px;}
+.tabs2 {height:30px;line-height:auto;background:url(//builder.oliv.cn/img/2/004.gif) repeat-x bottom left;}
+.tabs2 li a.tab {height:19px;background-image:url(//builder.oliv.cn/img/2/003.png);background-repeat:no-repeat;background-position:center 0;margin:0px 1px 0 1px;border:1px solid #c8d2d7;padding:5px 9px 4px;_position:relative; _top:4px;}
+.tabs2 li a.tab b {height:19px;line-height:19px;display:inline-block;*display:inline;*zoom:1}
+.tabs2 li a.on {border:1px solid #539cc5;padding:0; height:28px}
+.tabs2 li a.on b {color:#fff;border:none;background-repeat:no-repeat;padding:5px 9px 9px 9px;background-image:url(//builder.oliv.cn/img/2/003.png);background-repeat:no-repeat;background-position:center -40px}

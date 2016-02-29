@@ -1,0 +1,134 @@
+.txt {display:inline-block;*display:inline;margin:0 0 0.2em;vertical-align:middle}
+.txt input {height:19px;line-height:19px!important;padding:2px 4px 2px;border:1px solid #d8d8d8; vertical-align:top;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;outline:0}
+.frm_qq .txt input {width:8em}
+.frm_unit .txt input {width:164px}
+.txt2 input {border-color:#c4c4c4;background-image:url(//s1.cr.itc.cn/img/s/lin/hr_sd_f2.gif)}
+.txt3 input {padding:1px 3px;border-color:#b7c5cb;background-image:url(//s1.cr.itc.cn/img/s/lin/hr_sd_e9.gif)}
+.rado,
+.cbox {display:inline-block;margin:0 1em 0 0;_padding-bottom:1px;white-space:nowrap}
+.rado input,
+.cbox input {margin:0 4px 0 1px;position:relative;top:-2px;*position:static;*margin:-4px 1px -1px 0;_margin:0 1px -1px 0;vertical-align:middle;*vertical-align:auto;cursor:pointer}
+.rado img,
+.cbox img {vertical-align:middle;margin:0 0 0.3em}
+option {padding-right:8px}
+.tarea {position:relative;*zoom:1; padding:0 5px}
+.tarea textarea {overflow:hidden;overflow-y:auto;display:block;zoom:1;width:100%;height:44px;padding:4px;margin-left:-5px;margin-right:-5px;border:1px solid #D1D1D1;vertical-align:top;word-wrap:break-word;word-break:break-all;outline:0;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px}
+.atFake {visibility:hidden;z-index:-9;top:0;left:0;position:absolute;overflow:hidden;overflow-y:auto;width:100%;font-size:12px;line-height:1.4}
+
+.select {position:relative;display:inline-block;*display:inline;*zoom:1;margin:0 6px 0.2em 0;vertical-align:middle;*vertical-align:auto;border:1px solid #d8d8d8;padding:0 19px 0 5px;background:#fff url(//builder.oliv.cn/img/2/001.png) no-repeat right 0;cursor:pointer;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;}
+.select input {display:block;padding:3px 0 2px;*padding:2px 0 1px;margin:0;border:none;height:19px;line-height:19px!important;font-size:12px;background:none;cursor:pointer; color:#666; width:100%}
+.selectDay {}
+.selectTxt {width:150px}
+.selectBday {width:90px}
+.selectDate {width:95px}
+.selectNum {width:22px}
+.selectYear {width:40px}
+.selectDegree {width:30px}
+.selectCity{width:61px}
+.selectCity .option{height:349px}
+
+.select_hover {background-position:right -50px;border:1px solid #c5cdd5!important;}
+.select_act {background-position:right -100px;border:1px solid #c5cdd5!important;}
+.options {position:relative;height:0;font-size:0;line-height:0;display:block;left:-6px;width:0;padding:0 0 0 0;display:block;width:100%; padding:0 22px 0 0 }
+.options .option {top:0;border:1px solid #c5cdd5;white-space:nowrap;position:absolute;font-size:12px;line-height:1.667;vertical-align:top;background:#fff;display:block;padding:1px; width:100%; overflow:auto; overflow-x:hidden;}
+.options .option q {display:block;height:23px;line-height:23px;overflow: hidden;padding: 0 0 0 10px;white-space: nowrap;}
+.options .option q.hover{background:#e6e6e6}
+
+.txt input,.tarea textarea {-webkit-transition:-webkit-box-shadow 0.2s ease-out;-moz-transition:-moz-box-shadow 0.2s ease-out;transition:box-shadow 0.2s ease-out}
+.txt input:focus,
+.tarea textarea:focus {border-color:#7BB3CF;-webkit-box-shadow:0 0 5px rgba(123,179,207,.6);-moz-box-shadow:0 0 5px rgba(123,179,207,.6);box-shadow:0 0 5px rgba(123,179,207,.6)}
+
+.tarea textarea::-webkit-scrollbar {width:9px;height:9px}
+.tarea textarea::-webkit-scrollbar-button:start:decrement,.tarea textarea::-webkit-scrollbar-button:end:increment {display:none}
+.tarea textarea::-webkit-scrollbar-track-piece {background-color:#FAFAFA;-webkit-border-bottom-right-radius:6px;-webkit-border-bottom-left-radius:6px}
+.tarea textarea::-webkit-scrollbar-thumb:vertical {height:20px;background-color:#999;-webkit-border-radius:6px}
+
+/*  */
+.form {*zoom:1}
+fieldset {padding:8px 0 13px;*padding-top:4px;margin:-1px 0 0;background:url(//s1.cr.itc.cn/img/s/lin/hr_dt_ba.gif) repeat-x}
+.form fieldset:first-child { background:none}
+.legend {position:relative;padding:4px 10px;margin:18px 0 -1px;border-bottom:1px solid #eee;font-size:14px;font-weight:bold}
+.frm {margin:10px 0 7px; padding:0 0 0 96px}
+.frmT {position:relative;overflow:hidden;width:72px;padding:2px 0 5px;margin:0 0 -27px -78px;text-align:right}
+.frmT em {display:block;height:20px; line-height:20px!important}
+.frmC {min-height:27px;_height:27px}
+.frm .pgc {display:inline-block;*display:inline;*zoom:1;padding:2px 0 0}
+.frm dfn {margin-right:6px}
+.frmTip {top:2px;*top:4px;position:relative;display:inline-block;*display:inline;*zoom:1;margin:0 0 0 10px;color:#999; vertical-align:top}
+.frmTip .i {display:none; background-position:-200px -25px}
+.frm_ok .frmTip .i { display:inline-block}
+.frm_ok .frmTip b {display:none}
+.frm_err .frmTip { color:#ff1812}
+.frm_hint .frmTip { color:#999}
+.frmTip2 {position:static;display:block;margin:1px 0 0;font-size:12px;line-height:1.667;color:#999}
+.frmTip2 a{margin-left:3px}
+.frmTip3 {color:#999}
+.frmTip4 {clear:both;padding:6px 0 0;font-size:12px;color:#999}
+.frmTip4  p {line-height:24px;text-indent:2em}
+.frmTip5 {color:#ff7200;height:25px;line-height:25px}
+.frmUrl .txt input{width:224px}
+.frmTxt .txt input {width:224px}
+.frmSubj .txt input {width:224px}
+.form .cbox,.form .rado {margin-top:2px}
+
+.formB .frmT,.formB .frmC {font-size:14px}
+.formB fieldset {padding:12px 10px 23px;*padding-top:18px}
+.formB .frm {margin:12px 0 9px; padding-left:112px}
+.formB .frmT {width:84px;margin:0 0 -27px -92px}
+.formB .tag3 {margin-top:1px;*margin-top:4px;_margin-top:5px}
+
+.form2 fieldset {padding:0}
+.form2 .frm {padding:0;margin:5px 0}
+.form2 .frmT,
+.form2 .frmC {display:inline;padding:0;margin:0}
+.form2 .frmT em { display:inline}
+
+.form3 .frm { padding:0!important; margin:5px 0!important}
+.form3 .frmT,
+.form3 .frmC {width:auto!important;padding:0!important; margin:0!important; text-align:left}
+
+.form4 { font-size:14px}
+.form4 .frm { padding:0; margin:5px 0}
+.form4 .frmT,
+.form4 .frmC {width:auto;padding:6px 10px; margin:0; text-align:left}
+.form4 .frmT {padding:6px 10px;margin:10px 0;background:url(//s1.cr.itc.cn/img/s/lin/hr_dt_ba.gif) repeat-x bottom;}
+.form4 .frmT em {font-weight:bold}
+.form4 .frmSubmit {padding-left:10px;border-top:1px solid #e5e5e5;padding-top:20px}
+
+.mw .frm {padding-left:80px}
+.mw .frmT {width:60px;margin-left:-70px}
+
+
+/*S post*/
+.post .ttl {margin:0 0 3px}
+.post .tarea {clear:both}
+.postMax,.postAtt,.postAtt .fuc {font-size:12px;color:#acb3bb}
+
+.postAtt {float:left}
+.postAtt li {display:inline-block;*display:inline;*zoom:1;vertical-align:top;margin:0 12px 0 0;height:22px}
+.postAtt li .i {padding-right:3px}
+.postAtt li .del {display:inline-block;*display:inline;*zoom:1;*vertical-align:top;margin:0;left:0;top:3px}
+.postAtt li .fuc {display:inline-block;*display:inline;*zoom:1;position:relative}
+.postAtt li a.fuc:hover { color:#6e7981}
+.postAtt li .dropD .close {margin:0 0 -16px -22px;left:100%;top:6px;*zoom:1;z-index:10;display:block;position:relative}
+.post .dropD {border:3px solid #ced2d4;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;padding:1px;background:#a7a7a7;white-space:nowrap}
+.post .dropT {border-bottom:1px solid #e0e0e0;height:28px;line-height:28px;padding:0 9px;background:#f0f4f5;color:#666;*width:337px}
+.post .dropC {background:#fff;white-space:normal}
+.post .dropD .signArr {width:16px;height:12px;margin:0 0 -12px -16px;overflow:hidden;line-height:0;top:-12px;display:block}
+.post .dropD .signArr q {color:#c9cdcf;width:16px;font-size:16px;line-height:18px}
+.post .dropD .signArr .k2 {color:#b4babb;top:5px;_top:-3px}
+.post .dropD .signArr .k3 {color:#f0f4f5;top:6px;_top:-7px}
+
+.postSub {text-align:right}
+.postCmt {margin-left:45px}
+.postCmt .tarea textarea {height:22px}
+.postCmt .ttl {margin-left:-50px}
+body .postCmt .avt32 {left:-12px;position:relative;margin:0 0 -32px -32px}
+
+.postMax {display:inline-block;font-family:"\5b8b\4f53";padding-right:10px;vertical-align:top; line-height:12px}
+.postSub {padding-top:10px;*padding-top:8px}
+.postAtt {padding-top:5px}
+
+
+.twiPost .post .ttl em {font-family:"\5fae\8f6f\96c5\9ed1","\5b8b\4f53";font-size:18px;color:#666}
+/*E post*/

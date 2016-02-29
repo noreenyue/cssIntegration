@@ -1,0 +1,58 @@
+.twiPost {}
+/*emotion*/
+.dropEmot {top:5px}
+.dropEmot .signArr .k3 {color:#fefefe!important}
+.dropEmot .signArr {left:25px}
+.dropEmot .dropC {width:355px;*overflow:hidden;*zoom:1;white-space:normal}
+
+/*vidoe*/
+.dropVideo {top:5px}
+.dropVideo .dropC {width:355px}
+.dropVideo .dropD {left:-110px;*left:-102px}
+.dropVideo .signArr {left:140px;*left:130px}
+.dropVideo .form3 {padding:3px 10px 20px 30px}
+.dropVideo .frm{margin:0}
+.dropVideo .frmT{height:25px; line-height:25px; color:#FF7200}
+.dropVideo .frmUrl .txt {margin:0 7px 0 0}
+.dropVideo .frmUrl .txt input{width:224px}
+
+/*img*/
+.postAtt li embed,.postAtt li object {position:absolute;top:0;left:0;width:100%;height:100%;filter:alpha(opacity=0)}
+.dropImg .dropC {-moz-box-shadow:1px 1px 3px rgba(0,0,0,.5);-webkit-box-shadow:1px 1px 3px rgba(0,0,0,.5);-moz-box-shadow:1px 1px 3px rgba(0,0,0,.5);border:none;width:128px}
+.dropImg .dropD {border:1px solid #dadddd;-moz-border-radius:1px;-webkit-border-radius:1px;border-radius:1px;}
+.pend {display:inline-block;*display:inline;*zoom:1;margin-right:5px}
+.pend .pbar {width:47px;border:1px solid #dcdcdc;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;height:8px;-moz-box-shadow:1px 1px 1px #f1f1f1 inset;-webkit-box-shadow:1px 1px 1px #f1f1f1 inset;box-shadow:1px 1px 1px #f1f1f1 inset}
+.pend .pbar p {margin:-1px 0;background:#8cbed9;height:8px;border:1px solid #88c2df;-moz-border-radius:3px 0 0 3px;-webkit-border-radius:3px 0 0 3px;border-radius:3px 0 0 3px;line-height:0;font-size:0}
+.dropImg .oper {height:25px;background:#f9f9f9;line-height:25px;border-bottom:1px solid #ececec;padding-left:5px;color:#dadada}
+.picoper .fuc {margin-right:9px;padding-left:7px}
+.dropImg .pics {background:#fff;height:129px;display:table-cell;line-height:1;text-align:center;vertical-align:middle;overflow:hidden;width:128px}
+
+/*local*/
+.dropLbs {top:5px}
+.dropLbs .dropC {width:355px}
+.dropLbs .dropD {left:-272px;*left:-252px}
+.dropLbs .signArr {left:300px;*left:280px}
+.dropLbs .form {padding:10px 0}
+.dropLbs .form .frm {padding:0 0 0 60px}
+.dropLbs .select input {width:70px}
+.dropLbs .frmLbs .txt {margin-right:7px}
+.dropLbs .frmLbs .txt input {width:194px}
+.dropLbs .localC {border-bottom:1px solid #eee;border-top:1px solid #eee;background:#fbfbfb;line-height:28px;text-align:center;margin:0 10px;overflow:hidden}
+.dropLbs .localC ul {position:relative;top:-1px}
+.dropLbs .localC li {background:url(//s3.cr.itc.cn/img/t/343.gif) no-repeat;text-align:left;height:auto;line-height:20px;padding:5px 10px;margin:0;color:#999;display:block}
+.dropLbs .localC .hover {background:#f2f2f2}
+.dropLbs .localMore {text-align:right;padding:7px 12px}
+
+.dropLbs1 {top:0}
+.dropLbs1 .dropC {-moz-box-shadow:1px 1px 3px rgba(0,0,0,.5);-webkit-box-shadow:1px 1px 3px rgba(0,0,0,.5);-moz-box-shadow:1px 1px 3px rgba(0,0,0,.5);border:none;width:128px}
+.dropLbs1 .dropD {border:1px solid #dadddd;border:1px solid #dadddd;-moz-border-radius:1px;-webkit-border-radius:1px;border-radius:1px;left:0}
+.dropLbs1 img {display:block;width:120px;height:120px;padding:4px}
+
+/*vote*/
+.dropVote {top:5px}
+.dropVote .dropC {width:360px}
+.dropVote .dropD {left:-218px;*left:-202px}
+.dropVote .signArr {left:247px;*left:230px}
+.dropVote .form {padding:5px 5px 15px 10px}
+.dropVote .frm {padding-left:72px}
+

@@ -1,0 +1,42 @@
+.cmt{ *zoom:1;padding:8px 11px 0;border:1px solid #dce0e1;background:#f6fafb}
+.cmt .twi .avt{left:-10px}
+.cmt .twi .avt32{margin:0 0 -32px -32px}
+.cmt .twi .avt24{margin:0 0 -24px -24px}
+.cmt .signArr{left:100%;top:-16px;width:16px;height:8px;margin:0 0 -8px -9px;color:#DCE0E1}
+.cmt .signArr .k2{color:#f6fafb}
+.cmt .signArr q{font-size:16px;line-height:16px}
+.cmt .close{top:-3px;margin-left:-12px}
+.cmt .twi,
+.cmtAll,
+.cmt .loading,
+.cmt .noCnt,
+.cmt .page{width:auto;padding-top:8px;padding-bottom:6px;background:url(//s1.cr.itc.cn/img/s/lin/hr_dt_ba.gif) repeat-x}
+.cmt .loading em{padding:3px 0;font-size:12px}
+.cmt .twiT,.cmt .twiC,.cmt .twiB{font-size:12px;padding:0;margin:0 0 0 48px}
+.cmt .twiT,.cmt .twiC{margin-right:6px}
+.cmt .btns2 .opt{top:-5px;margin:0!important}
+.cmt .post{margin-top:-5px;padding-bottom:10px}
+.cmt .post .ttl h6{color:#666}
+.cmt .post textarea{height:36px;line-height:1.4!important}
+.cmt .atfake{height:41px;margin-bottom:-41px}
+.cmtAll{height:21px;padding-bottom:2px}
+.cmtAll .tags{float:right}
+.cmtAll .fuc1{padding:0;background:none}
+.cmt .post_m .tarea textarea{overflow:hidden;height:16px}
+.cmt .post_m .tarea .atfake{display:none}
+.cmt .post_m .btns2{display:none}
+.cmt .noCnt{padding:8px .5em!important;margin:0;font-size:12px}
+
+
+
+.comment { }
+.comment .postCmt .ttl{display:none}
+.comment .cmt{background:none;border:none;margin-left:0;margin-right:0}
+.comment .cbox{margin:0}
+.comment .page{margin:0}
+
+.comment .cmt {padding:0 21px;margin:0 -20px;background:#FCFCFC}
+.comment .cmt .twi,
+.comment .cmt .noCnt {margin-top:-1px}
+
+.comment .cmt > div:first-child {margin-top:0; background:none}

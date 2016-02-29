@@ -1,0 +1,188 @@
+html,body {overflow:hidden;height:100%}
+body {background:#a6e6ec url(//builder.oliv.cn/img/1/011.jpg) repeat-x top}
+
+.SKY,.LAND,.Bdy,.pane,.main {-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
+.SKY,.LAND {overflow:hidden;overflow-y:scroll;float:left;width:100%;height:100%;padding-top:115px}
+.SKY {visibility:hidden;padding-bottom:8px}
+.LAND {position:relative;margin:0 0 0 -100%}
+
+.Bdy,.Lay,.tray {width:960px;margin:0 auto}
+.Lay {height:100%}
+.Bdy {border-width:10px 10px 10px 35px;-webkit-border-image:url(//builder.oliv.cn/img/1/003.png) 10 10 10 35 repeat;-moz-border-image:url(//builder.oliv.cn/img/1/003.png) 10 10 10 35 repeat}
+.B0,.B1 {display:none;_overflow:hidden;_display:inline;_zoom:1;_width:100%;_height:32766px;_margin:0 0 -32766px}
+.Bi {display:none;_display:block;width:1500px;height:100%;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//builder.oliv.cn/img/1/002.png',sizingMethod='scale')}
+.B1 .Bi {_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//builder.oliv.cn/img/1/026.png',sizingMethod='scale')}
+
+.Tray {z-index:7;top:-115px;position:relative;*zoom:1;float:left;width:100%;*float:none;*width:auto;height:40px;margin:0 0 -40px}
+.Tray .Png {height:40px;margin:0 0 -40px;background:url(//builder.oliv.cn/img/1/001.png) repeat-x top;_background:none!important;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//builder.oliv.cn/img/1/001.png',sizingMethod='scale')}
+.tray {height:35px}
+.logo {left:160px;position:relative;width:160px;height:35px;margin:0 0 -35px -160px}
+.logo h2 {position:relative;left:140px;top:5px;overflow:hidden;display:block;width:140px;height:25px;margin:0 0 -25px -140px}
+.logo .png {height:100%;margin:0 0 -25px;background:url(//builder.oliv.cn/img/1/008.png) no-repeat;_background:none!important;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//builder.oliv.cn/img/1/008.png',sizingMethod='crop')}
+.logo a {overflow:hidden;display:block;height:100%;text-indent:-99em}
+
+.nav {*zoom:1;margin:0 0 0 186px;font-size:14px}
+.nav2,.jumper {display:inline;float:right}
+.jumper { position:relative;margin-top:5px}
+.jumper .txt {display:inline-block}
+.jumper .txt input {*float:left;width:148px; border-color:#33a8c1; vertical-align:top; background:#f6feff; -webkit-border-top-right-radius:0;-moz-border-radius-topright:0;border-radius-topright:0;-webkit-border-bottom-right-radius:0;-moz-border-radius-bottomright:0;border-radius-bottomright:0}
+.jumper .blur input {background:#D8F6FB}
+.jumper a { display:inline-block; width:28px;height:23px;border:1px solid #33a8c1; border-left-width:0; vertical-align:top; background:url(//builder.oliv.cn/img/1/009.png) no-repeat; -webkit-border-top-right-radius:3px;-moz-border-radius-topright:3px;border-radius-topright:3px;-webkit-border-bottom-right-radius:3px;-moz-border-radius-bottomright:3px;border-radius-bottomright:3px}
+.jumper a:hover { background-position:0 -23px}
+.jumper a:active { background-position:0 -46px}
+.jumper .options{ left:0; top:-2px; width:0}
+.jumper .options .option{width:183px}
+.jumper .option q{cursor:pointer}
+.jumper .option em{color:#fd0000; padding:0 3px}
+
+.navG,.navL { display:inline; float:left}
+.navL { height:35px;margin:0 1px 0 0}
+.nava {display:block;padding:0 10px;color:#fff!important}
+.nava b {display:inline-block;height:21px; line-height:21px; margin:7px 0}
+.nava:hover,.nav a.on,.nav a.act { text-decoration:none; background:#1b8da9}
+.nava .sign {margin:0 -3px 0 2px; vertical-align:middle}
+.nav2 { margin:0;font-size:12px}
+.nav2 .nava {margin-top:5px;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px}
+.nav2 .nava b {margin:2px 0 2px}
+.nav2 .navG {margin-left:-1px; background:url(//builder.oliv.cn/img/1/010.gif) no-repeat 0}
+.nav2 .navG:first-child { background:none}
+
+.Sbar,.Main,.Aside {float:left;width:100%}
+.Main,.Aside {margin-left:-100%}
+.Aside {z-index:0;position:relative; color:#999}
+.aside {padding:8px 0 0;margin:0 -9px 0 554px}
+.main,.aside {;margin-top:-10px;margin-bottom:-10px}
+
+.navi {z-index:99;position:relative;width:35px;margin:18px 0 0 -35px;text-align:center}
+.navi .p {display:block;width:29px;height:30px;margin:0 auto}
+.navi a {display:block;width:29px; height:46px; margin:12px auto; line-height:12px; text-align:center; color:#5791a2; background:url(//builder.oliv.cn/img/1/021.png) no-repeat -99px}
+.navi a:hover,.navi .on {text-decoration:none; background-position:0 0}
+
+.main {z-index:3;position:relative;width:564px;min-height:999px;_height:999px;margin-left:-1px;border-width:10px;-webkit-border-image:url(//builder.oliv.cn/img/1/006.png) 10 repeat;-moz-border-image:url(//builder.oliv.cn/img/1/006.png) 10 repeat}
+.mainC,.mainT {margin-left:-9px;margin-right:-7px}
+.mainC .ap,.mainC .aps {margin-left:-10px;margin-right:-10px}
+.mainT {min-height:30px;_height:30px;padding:10px 20px 0;margin-top:-10px;-webkit-border-top-right-radius:5px;-moz-border-radius-topright:5px;border-radius-topright:5px;-webkit-border-top-left-radius:5px;-moz-border-radius-topleft:5px;border-radius-topleft:5px; background:#f6f6f6}
+.mainC {min-height:999px;_height:999px;border-width:0 10px;-webkit-border-image:url(//builder.oliv.cn/img/1/025.png) 10 repeat;-moz-border-image:url(//builder.oliv.cn/img/1/025.png) 10 repeat}
+.main > div.mainC:first-child {margin-top:-10px;border-width:10px 10px 0}
+
+.Pane { visibility:visible;z-index:2;position:relative;overflow:hidden;height:100%;margin:0 8px 0 595px}
+.pane {position:relative;height:100%;padding:14px 0 0;border-width:10px 10px 10px 0;-webkit-border-image: url(//builder.oliv.cn/img/1/005.png) 10 repeat;-moz-border-image:url(//builder.oliv.cn/img/1/005.png) 10 repeat}
+.paneT {top:-24px;position:relative;height:31px;margin:0 -9px -31px 0;background:url(//builder.oliv.cn/img/1/004.png) no-repeat right 0}
+.paneT .fuc { display:inline-block;padding:6px 0 3px;margin:0 0 0 15px; color:#999}
+.paneT a.fuc:hover { color:#858585}
+.paneT .close {top:0; display:block;height:25px;width:30px; padding:0; margin:0 0 -25px -30px}
+.paneT .signX {width:14px;height:14px;margin:8px 0 0;color:#b1b1b1}
+.paneT .signX q {font-size:14px; line-height:14px}
+.paneT .signX .k2 { color:#d0d0d0}
+.paneT a.close:hover .signX { color:#858585}
+.paneT a.close:hover .signX .k2 { color:#9c9c9c}
+.paneC {top:7px;position:relative;overflow:hidden;overflow-y:auto;width:100%;height:100%; padding:0 4px 0 5px}
+
+.paneC::-webkit-scrollbar {width:9px;height:9px}
+.paneC::-webkit-scrollbar-button:start:decrement,.paneC::-webkit-scrollbar-button:end:increment {display:none}
+.paneC::-webkit-scrollbar-track-piece {background-color:#FAFAFA;-webkit-border-bottom-right-radius:6px;-webkit-border-bottom-left-radius:6px}
+.paneC::-webkit-scrollbar-thumb:vertical {height:50px;background-color:#999;-webkit-border-radius:6px}
+.paneC::-webkit-scrollbar-thumb:horizontal {width:50px;background-color:#999;-webkit-border-radius:6px}
+
+/*S gotop*/
+.gotop {visibility:visible;left:100%;top:100%;z-index:9;position:relative;overflow:hidden;width:20px;height:80px;margin:-80px 0 0 1px}
+.gotop a,.gotop .ii {overflow:hidden;display:block;width:20px;height:67px;margin:0;cursor:pointer}
+.gotop .ii {background:url(//builder.oliv.cn/img/1/019.png) no-repeat}
+.gotop a:hover .ii { background-position:0 -100px}
+/*E gotop*/
+/*S reminder*/
+.reminder {visibility:visible;left:100%;top:-80px;z-index:9;position:relative;*display:inline;*zoom:1; width:178px;height:20px; margin:0 0 -20px -180px}
+.reminder ul { position:absolute;width:100%;padding:5px 0; border:1px solid #E9DBC0; background:#FFFFE4; color:#7a7a7a;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px}
+.reminder li {padding:0 10px}
+.reminder em {margin:0 1px 0 0;font-weight:bold}
+/*E reminder*/
+
+/*S ap*/
+.ap,.aps {padding-left:20px;padding-right:20px}
+.aps .ap {padding-left:0;padding-right:0}
+
+	/* ap title */
+.h3 {padding:0 0 0 10px}
+.h3 h3,.h3 .opt {padding-top:10px}
+.h3 .opt {float:right;}
+.h3 h3 {font-size:16px;font-weight:bold;font-family:"\5b8b\4f53"; color:#666}
+.h3 h3 .q {margin:0 0 0 12px;font-size:12px;font-weight:normal}
+
+h4 {height:24px;padding:9px 20px 6px;border:1px solid #E9E9E9;border-width:1px 0 0; color:#666}
+h4 em {font-size:14px}
+h4 .opt {float:right;padding:2px 0 0; color:#999}
+h4.h4 {border-width:0 0 1px}
+h4.h4 .signArr {left:30px;top:25px;margin:0 0 -6px -12px;color:#E9E9E9}
+h4.h4 .signArr .k2 { color:#fff}
+
+.assist {padding-top:12px;padding-bottom:7px;border-bottom:1px solid #ECF0F3; color:#666}
+.assist .opt{float:right;}
+
+/* scenes */
+.aside .ap,.aside .aps {padding-top:10px;padding-bottom:12px;border-bottom:1px solid #C4E7EB;border-top:1px solid #ECFBFD}
+.aside .aps .ap {display:inline-block;width:48%;padding:0;margin:0 .5%;border:0;vertical-align:top}
+.aside > div[class^="ap"]:first-child {border-top:0}
+.aside h4 {padding-top:0;border:0}
+.paneC .ap,.paneC .aps {margin-left:-5px;margin-right:-4px}
+.paneC .aps .ap {padding:0;margin-left:0}
+
+.twis,.ap h4,.usrLis,.twiFinal .twi,.mainT .ap,.mainT .aps {margin-left:-20px;margin-right:-20px}
+.aps .ap h4 { padding-left:0; padding-right:0; margin-left:0;margin-right:0}
+/*E ap*/
+
+.Col-S-M-A {}
+
+.Col-M-A .Sbar,
+.Col-M-A .Pane {display:none}
+.Col-M-A .Bdy {border-width:10px}
+.Col-M-A .Main {margin-left:0}
+.Col-M-A .main {width:643px}
+.Col-M-A .mainT {margin-right:-317px}
+.Col-M-A .aside {padding-top:90px;margin-left:644px}
+
+.Col-S-M {}
+.Col-S-M .Aside .aside {display:none}
+.Col-S-M .SKY .Lay { display:none}
+
+.Col-M {}
+.Col-M .SKY .Lay {display:none}
+.Col-M .Sbar {display:none}
+.Col-M .Aside {display:none}
+.Col-M .Main { margin-left:-34px}
+.Col-M .main {width:960px}
+.Col-M .sideBar{float:right; width:255px;background:url(//builder.oliv.cn/img/s/lin/vr_sd_c2.gif) repeat-y left top; margin-left:-1px; margin-right:-10px}
+.Col-M .mainInner{overflow:hidden; padding:0 17px 0 9px; background:url(//builder.oliv.cn/img/s/lin/vr_sd_c2.gif) repeat-y right top; min-height:999px}
+
+/*S IE8-*/
+.Bdy,.main {box-sizing:content-box\9}
+.Bdy,.Lay,.tray {width:958px\9}
+.Bdy {border:1px solid #99DAE1\9;background:url(//builder.oliv.cn/img/1/002.png) repeat-y\9}
+.Main,.Sbar,.Aside {margin-top:0\9;margin-bottom:0px\9}
+.main {width:560px\9}
+.aside {margin-left:593px\9;margin-right:0\9}
+.navi {margin-left:-1px\9}
+.main {padding:10px 0\9;margin:0 0 0 33px\9;border:1px solid #e2e2e2\9;border-width:0 1px\9;border-left-color:#99DAE1;background:#fff\9}
+.Pane {top:1px\9;margin-left:596px\9}
+.pane {background:#fff\9;border:1px solid #e2e2e2\9;border-width:0 1px 1px 0\9}
+.paneT,.paneC {left:0\9;margin-right:0\9}
+.paneC {padding-left:0\9;padding-right:0\9}
+.mainT,.mainC,.mainC .ap,.mainC .aps {margin-left:0\9;margin-right:0\9}
+	/* IE8 */
+.SKY {padding-bottom:10px\0}
+.pane {padding:31px 0 0\0}
+.paneT {top:-31px\0;padding:0\0}
+.paneC {top:0\0}
+	/* IE7- */
+html {*overflow-y:hidden;*padding:145px 0 10px}/*146 = 115 + 31*/
+.SKY {*padding:0}
+.Aside {*overflow:hidden}
+.LAND {*padding:114px 0 41px;*margin-top:-145px}
+.Bdy {*margin-bottom:-41px}
+.Pane {*padding:31px 0 1px;*margin-top:-31px;*margin-left:594px}/*32 = 31 + 1(Bdy's border)*/
+.pane {*padding:0}
+.lie {top:-31px;z-index:3;position:relative;display:none;*display:inline;*zoom:1;width:1px;*height:32766px;*margin:0 0 -32766px; background:#e2e2e2}
+.paneT {*top:-31px;*left:1px;*border-right:1px solid #e2e2e2}
+.paneC {*top:0}
+	/* IE 6 */
+.Bdy {_background:none!important}
+/*E IE8-*/

@@ -1,0 +1,24 @@
+.pic {position:relative;display:inline-block;margin:0 15px 0 0;vertical-align:top}
+.pic a,.pic b {position:relative;overflow:hidden;display:inline-block;vertical-align:top}
+.twi .pics .pic a {cursor:url(//s1.cr.itc.cn/img/t/zoomin.cur) 6 8,pointer;cursor:url(//s1.cr.itc.cn/img/t/zoomin.cur)\9}
+.twi .pics .picV a {cursor:pointer}
+.pic .iFake,
+.pic .iMask {position:absolute;overflow:hidden;width:100%;height:100%;margin:0;cursor:default;_display:inline;_float:left;_top:50%!important;_left:50%!important;_position:relative;_width:400px!important;_height:400px!important;_margin:-200px}
+.pic .iFake {width:100%;height:100%;opacity:0.5;filter:alpha(opacity=50);background:#fff}
+.pic .iFake .ii {display:block;width:100%;height:100%;margin:0}
+
+.pic img {display:block;vertical-align:top}
+.vdo,.picB {overflow:hidden;display:block}
+.picB img,.picB canvas {max-width:400px;max-height:400px;vertical-align:top}
+.vdo embed,.vdo object {width:400px;max-height:400px}
+.paneC .picB img,.paneC .picB canvas {max-width:100%;height:auto!important}
+* html .paneC .picB img {_zoom:expression(function(x){if(x.offsetWidth>x.parentNode.offsetWidth){x.style.width='100%!important';x.style.zoom=1}}(this))}
+.paneC .vdo embed,.paneC .vdo object {width:100%}
+.media .c,.APC {padding-bottom:9px}
+.media .oper,.APoper {padding:5px 0 0;margin:0 0 6px;color:#cdcdcd;font-size:12px}
+.media .picB {cursor:url(//s1.cr.itc.cn/img/t/zoomout.cur) 6 8,pointer;cursor:url(//s1.cr.itc.cn/img/t/zoomout.cur)\9}
+.pic .iMask {cursor:pointer}
+.pic .iMask b {top:50%;left:50%;position:absolute;width:200px;height:200px;margin:-100px;_position:relative;background:url(//s2.cr.itc.cn/img/t/255.png) no-repeat;_background:none!important;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//s2.cr.itc.cn/img/t/255.png',sizingMethod='crop')}
+a:hover .iMask b {background-position:0 -200px;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//s2.cr.itc.cn/img/t/256.png',sizingMethod='crop')}
+
+.pics {margin-top:5px;text-align:left;font-size:12px}

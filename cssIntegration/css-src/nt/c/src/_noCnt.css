@@ -1,0 +1,10 @@
+.noCnt .em {margin:0 6px}
+.noCnt a.em {margin:0;color:#fd0000}
+.noCnt .ttl,
+.noCnt .cnt {margin:0!important;padding:0!important}
+.noCnt {margin:1em auto;padding:0 2em;font-size:14px;color:#666}
+.noCnt .em {margin:0 6px}
+.noCnt a.em {margin:0;color:#1a56a1;text-decoration:underline}
+.noCnt a.em:hover {color:#d71923}
+.noCnt .cnt q {margin:0 6px}
+.noCnt .fuc {margin-left:6px}

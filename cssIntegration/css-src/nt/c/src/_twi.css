@@ -1,0 +1,62 @@
+.twi {padding:6px 0 8px;*padding-top:8px}
+.twi .twi {bottom:0}
+.twi .avt {left:-12px;top:3px;*top:0;position:relative;margin:0 0 -48px -48px}
+.twiT {min-height:20px;_height:20px;padding-top:3px;font-size:14px}
+.twiT .nm a {font-weight:bold;color:#444}
+.twiT .nm a:hover {color:#0082cb}
+.twiT .ugc .nm a {font-weight:normal;color:#0082cb}
+.twiC {margin:3px 0 0;font-size:12px!important}
+.twiOther {padding:7px 0 0;margin-top:8px;background:url(//s1.cr.itc.cn/img/s/lin/hr_dt_e4.gif) repeat-x}
+.twiMore {visibility:hidden;top:4px;left:100%;position:relative;display:block;width:18px;height:18px;margin:0 0 -18px -23px}
+.pane .twiMore {display:none}
+.twi .pic,.twi .pic a {max-width:124px\0}
+.twi .pic img {max-width:120px}
+.twi .nm {margin-right:5px}
+.twiB {position:relative;clear:both;margin-top:8px}
+.twiB .tm {word-spacing:normal}
+.twiB .tags {float:right}
+.twi .from {display:inline}
+.twiB .i {*margin-bottom:0.1em}
+.twiLoad {padding:6px 0;text-align:center}
+.twiLoad .fuc {font-size:14px}
+
+.twi_new {border-color:#c30}
+.twi_hover,.twi_act {cursor:pointer}
+.twi_hover .twiMore,.twi_act .twiMore {visibility:visible}
+.twi_hover {background-color:#f4fcfd!important}
+.twi_act {background-color:#ebf9fa!important}
+
+.twis .twi {background:url(//s1.cr.itc.cn/img/s/lin/hr_dt_ce_4.gif) repeat-x bottom;cursor:pointer}
+
+
+.cmt,.twiFinal,
+.cmt .twi,
+.twiFinal .twi {cursor:auto}
+
+.twiT,.twiC,.twiB,.twiA,
+.twiRoot,.cmt {margin-right:28px;margin-left:80px}
+
+.twiRoot,.cmt,.media,.AP {margin-top:9px}
+.twiRoot,.media,.AP {padding:0 10px;border:1px solid #e3e3e3;background:#F8F8F8!important;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px}
+.twiRoot .media,.twiRoot .AP {padding:0;border:0;background:none}
+
+
+.twiRoot .twiB .tags {float:none}
+.twiRoot .twiT,.twiRoot .twiC,.twiRoot .twiB {margin-left:0!important;margin-right:0;font-size:12px}
+.twiRoot .twi {border:0;padding:0;background:none}
+.twiRoot .twiC {color:#666}
+.twiRoot .twiB {margin-top:0}
+.twiRoot .ugc {display:inline!important;margin:0;font-size:12px!important}
+
+.twiRoot2 .twiT a {margin:0;font-size:14px;font-weight:bold;vertical-align:middle}
+.twiRoot2 .twiC {margin-top:0}
+
+.stream2 .twiT,.stream2 .twiC,.stream2 .twiB,.stream2 .twiA,
+.stream2 .twiRoot,.stream2 .cmt {margin-right:20px;margin-left:20px}
+
+.twiFinal .twi {border:0;background:none}
+
+.twiFinal .twiT,.twiFinal .twiC,.twiFinal .twiB,.twiFinal .twiA,
+.twiFinal .twiRoot {margin-right:20px;margin-left:20px}
+
+.twiFinal .ugc {font-size:18px;font-family:"\5fae\8f6f\96c5\9ed1","\5b8b\4f53";color:#666}

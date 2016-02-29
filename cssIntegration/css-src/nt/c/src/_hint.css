@@ -1,0 +1,33 @@
+.hint {min-height:65px;_height:65px;padding:24px 18px 5px 68px;border:1px solid #faf5d3;background:#fffbdf;color:#666}
+.hintT {position:relative;display:inline-block;*display:inline;*zoom:1;margin-top:12px;font-size:14px;font-weight:bold;text-align:left}
+.hintT .i {left:-10px;position:relative;display:inline;float:left;display:block;width:50px;height:50px;margin:0 0 -50px -50px;vertical-align:top;background-position:-250px 0}
+.hintT .avt {left:-10px;position:relative;display:inline;float:left;display:block;margin:0 0 -48px -48px;vertical-align:top}
+.hintT em {float:left}
+.hintC {margin-bottom:12px;color:#777}
+.hintC .p1{padding-bottom:15px; margin-bottom:15px;background:url(//s3.cr.itc.cn/img/t/343.gif) no-repeat left bottom}
+.hintC .btns {margin:10px 0 0}
+
+.hintNan { text-align:center}
+.hintForbid {border:0}
+.hintForbid .hintT .i {background-position:-250px -50px}
+.hintNan {min-height:28px;_height:28px;padding-top:12px;margin:5px 0 0!important;border:1px solid #F1F2F2;background:#fafafa}
+.hintNan .hintT {margin-top:0;font-weight:normal}
+.hintNan .hintT .i,
+.hintMsg .hintT .i {left:-5px;top:-1px;width:25px;height:25px;margin:0 0 -25px -25px;background-position:-250px -100px}
+.hintAct {padding-left:100px;padding-top:12px;border:0;text-align:left;background:none;color:#999}
+.hintAct .hintT .i {background-position:-250px -150px}
+.hintAct .hintT em {overflow:hidden;display:block;width:144px;height:24px;text-indent:-99em;background:url(//s2.cr.itc.cn/img/t/txt.png) no-repeat}
+
+.hintTip .hintT .i {background-position:-200px -200px}
+
+.hintOk .hintT .i {background-position:-250px -250px}
+
+.hintBind .hintT,
+.hintVip .hintT {font-size:14px;color:#666}
+.hintBind .hintT .i,
+.hintVip .hintT .i {top:-10px;width:70px;height:70px;margin:0 0 -70px -70px;background:url(//s3.cr.itc.cn/img/t/258.png) no-repeat}
+.hintBind {padding-left:120px}
+
+
+/* extentions */
+.mw .hint { border:0; background:none}

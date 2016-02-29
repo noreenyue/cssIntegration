@@ -1,0 +1,22 @@
+/*S college selector*/
+.mwCollege .mwBd{ padding-left:10px; padding-right:10px}
+.mwCollege .sch{height:50px}
+.mwCollege .sch .txt{margin-top:5px}
+.mwCollege .sch em{color:#666;padding:0 15px}
+
+.collegeArea{padding:13px 0 13px 10px;background:url(//s3.cr.itc.cn/img/t/343.gif) no-repeat;}
+.collegeArea a{padding:1px 4px 2px 2px;border:1px solid #fff;-moz-border-radius:1px;-webkit-border-radius:1px;border-radius:1px;line-height:24px;margin-right:3px;display:inline-block;white-space:nowrap;vertical-align:top;line-height:18px;height:18px;overflow:hidden;*padding-bottom:0;_padding-bottom:2px;margin-bottom:1px}
+.collegeArea a:hover,.collegeArea a.on{border:1px solid #6a95ca;background:#7ca3d3;color:#fff;text-decoration:none}
+.collegeList{border:1px solid #e8e8e8;background:#fafafa;height:225px;overflow-x:hidden;overflow-y:auto;width:100%;}
+.mwCollege .iloading {background:#fafafa url(//s1.cr.itc.cn/img/s/ico/0178.gif) no-repeat center center}
+.collegeList ul{padding-left:11px}
+.collegeList ul:after{overflow:hidden;clear:both;display:block;height:0;content:"\20"}
+.collegeList ul li{padding-left:10px;background:url(//s1.cr.itc.cn/img/i2/t/080.gif) no-repeat left 13px;line-height:27px;width:190px;float:left}
+.mwCollege .tip{ padding:5px 20px 0 20px; color:#999}
+.mwCollege .btns3{padding:10px 20px 0}
+
+.colgTtl {font-size:12px;color:#999;padding:10px 15px 10px}
+.colgTtl .p1 {color:#505050;font-size:14px;padding-bottom:5px}
+.colg_acct {padding-left:80px;background:url(//s2.cr.itc.cn/img/i2/t/117.jpg) no-repeat 20px 24px}
+.colg_acct .p3 {padding:15px 0 0;margin:15px 0;background:url(//s3.cr.itc.cn/img/t/343.gif) no-repeat}
+/*E college selector*/

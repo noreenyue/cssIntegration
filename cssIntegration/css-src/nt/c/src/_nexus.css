@@ -1,0 +1,17 @@
+.nexus {margin:10px 0 0;color:#1a56a1;white-space:nowrap}
+.nexus ul {overflow:hidden;height:40px;margin:0 0 0 -4px}
+.nexus li {display:inline-block;*display:inline;*zoom:1;height:30px;min-width:29px;_width:29px;padding:0 0 0 7px;margin:5px -3px 0 4px;*margin-right:1px;border-left:1px solid #a8cfe2;white-space:nowrap;vertical-align:top}
+.nexus .t1 {background:none;border:0}
+.nexus a:hover {text-decoration:none}
+.nexus a,.nexus b,.nexus i {position:relative;overflow:hidden;display:block;height:40px;vertical-align:top}
+.nexus a,.nexus b {left:-1px;display:inline-block;overflow:visible;min-width:24px;_width:24px;padding:0 7px 0 0;margin:-5px 0}
+.nexus .j2 {line-height:23px;font-size:16px;font-weight:bold;font-family:Arial;color:#3271c0}
+.nexus .gain {height:21px;_line-height:22px;padding:19px 2px 0 31px;margin:-40px 0 0}
+.nexus .j1 {left:24px;width:24px;*line-height:23px!important;height:21px;padding:19px 0 0 7px;margin:0 0 -40px -31px;font-weight:normal;color:#0075d0}
+
+.nexus a:hover i {color:#fff}
+.nexus a:hover,
+.nexus a:hover .j1 {background:#2AA3E9}
+.nexus .on .j1,.nexus .on .j2 {color:#fff!important;cursor:default}
+.nexus .on a,.nexus .on b,
+.nexus .on .j1 {background:#0082CB!important}

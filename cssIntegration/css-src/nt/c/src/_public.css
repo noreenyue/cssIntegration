@@ -1,0 +1,49 @@
+/*S pub_reg*/
+.main,.mainT,.mainC,.Bdy,.ap,.aps,h4,.post,.twi,.lis,.usrPanel,.usrLi {*zoom:1}
+.main:after,.mainT:after,.mainC:after,.Bdy:after,.ap:after,.aps:after,h4:after,.post:after,.twi:after,.lis:after,.usrPanel:after,.usrLi:after {overflow:hidden;clear:both;display:block;height:0;content:"\20"}
+.ugc,.bio,.pgc,.uri,.nm a,.nm b,.atfake,.twiT,.twiC {word-wrap:break-word;word-break:break-all}
+.ugc,.bio,.pgc,.uri,.atfake {white-space:normal}
+/*E pub_reg*/
+
+/*S base tag*/
+.tm,
+.q,
+.from,
+.from a,
+.ttl q {color:#999;font-family:"\5b8b\4f53"}
+.local,.unit,.relat,.bio {color:#666}
+.num {margin:0 3px;color:#3271C0}
+.em {font-weight:bold}
+.em2,.err {color:#ff1812}
+.from {margin-left:6px}
+.lbs {padding:0 4px;margin-left:3px}
+.fake {font-size:0;line-height:0}
+.png { display:block}
+.at {position:relative;top:-0.084em;*position:static;font-family:Arial;font-style:normal!important;text-decoration:none!important}
+.overlay,.cover {position:absolute;width:100%;height:100%;border:0;opacity:0;filter:alpha(opacity=0);background:#000}
+.cover {opacity:.4;filter:alpha(opacity=40)}
+.split {margin:0 4px 0 3px;color:#dadada}
+.ugc {display:inline}
+.ugc .nm {display:inline!important}
+
+.nm {display:inline-block;text-indent:0;white-space:nowrap}
+.nm2r {height:36px;line-height:18px}
+/*E base tag*/
+
+/*S status*/
+.nodis,.noDis {display:none!important}
+.novis,.noVis {visibility:hidden!important}
+.noSize {display:block;width:0;height:0;font-size:0;line-height:0}
+.blur,.blur textarea,.blur input {color:#999}
+.act {z-index:20;position:relative}
+.cursor-wait {cursor:wait}
+
+.loading2,
+.loading3 {background:url(//s1.cr.itc.cn/img/s/ico/0167.gif) no-repeat 0}
+.loading {overflow:hidden;text-align:center}
+.loading em {display:inline-block;height:19px;line-height:19px;padding:12px 0 11px; text-indent:23px;font-size:14px;color:#a0a0a0;background:url(//s1.cr.itc.cn/img/s/ico/0178.gif) no-repeat 0}
+.loading2 {overflow:hidden;*zoom:1;background-image:url(//s1.cr.itc.cn/img/s/ico/0168.gif);background-position:center}
+.loading2 div,.loading2 p,.loading2 a,.loading2 strong,.loading2 b,.loading2 i,.loading2 img {visibility:hidden!important}
+.loading3 { min-height:100px; background-position:center}
+.loading3 * { display:none}
+/*E status*/

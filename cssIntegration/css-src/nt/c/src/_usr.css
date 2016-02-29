@@ -1,0 +1,46 @@
+.usr {margin:0 0 0 60px}
+.usr .avt { left:-10px; position:relative;display:block;margin:0 0 -48px -48px}
+.usr .nm { display:block}
+.usr .nm .btn {margin-left:9px}
+.usr .stat {position:relative;left:185px;width:80px;height:20px;margin:0 0 -20px;color:#999}
+.usr .oper {display:inline;float:right;height:40px;margin:-2px 0 -40px;text-align:right}
+.usr .oper .tags { float:right}
+.usr .ugc {display:block}
+.usr .oper .tags {*display:inline;*zoom:1}
+.usr .ugc{ display:block;}
+
+
+.usr2 { display:inline-block; width:4em; margin:5px 11px 5px 0; *margin-right:15px; vertical-align:top}
+.usr2 .nm { overflow:hidden; display:block; height:20px; white-space:normal}
+
+.usr3 { overflow:hidden; display:inline; float:left; width:48%; margin:0 2% 0 0}
+.usr3 .avt { float:left; height:60px;padding-right:15px}
+.usr3 .nm { display:block}
+
+.usrLis {*zoom:1}
+.usrLis .usr {border-top:1px dashed #ddd;padding:10px 10px 10px 80px;margin:-1px 0 0}
+.usrLis .usr:first-child {margin-top:0;border:0}
+
+.face .avt { display:inline-block;*display:inline;*zoom:1;margin:2px 1px 3px;*margin-right:5px}
+
+.usrInf {margin-top:9px;border-top:1px dashed #cfcfcf}
+.usrInf dt {padding:9px 0 4px;font-size:14px; color:#666}
+.usrInf dd {padding:0 0 8px}
+
+.usrStat {padding-top:14px;padding-left:83px}
+.usrStat .nm { font-size:14px; font-weight:bold}
+.usrStat .nm .i,.usrStat .nm .p {margin-left:5px}
+.usrStat .ttl {font-size:14px}
+.usrStat .ttl .nm {margin-left:8px}
+.usrStat .usr { margin:0}
+.usrStat .usr .avt {left:-15px;top:3px}
+
+.usrStat2 {padding-left:20px}
+
+.mainT .usrStat {min-height:220px;_height:220px;padding-left:200px}
+.mainT .usrStat .avt180 { top:5px; padding:0; margin:0 0 -180px -180px}
+.mainT .usrStat .usr .nm {margin-bottom:6px;font-size:22px;line-height:30px;font-family:"\5fae\8f6f\96c5\9ed1","\9ed1\4f53"; font-weight:normal}
+.mainT .usrStat .bio {margin-top:5px}
+.mainT .usrStat .oper { left:-15px; top:190px; position:relative; display:block; float:none; width:180px; height:30px; margin:0 0 -30px -180px; text-align:left}
+
+.usrStat3 {padding-top:14px}

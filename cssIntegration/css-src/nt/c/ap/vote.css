@@ -1,0 +1,35 @@
+.vote .APoper,.voteAttr {background:url(//s1.cr.itc.cn/img/s/lin/hr_dt_ced1d2.gif) repeat-x bottom}
+.voteT {overflow:hidden;margin:0;padding:3px 8px 5px;color:#999}
+.voteAttr {padding:6px 0 0; background-position:0 0}
+.vote ul {margin:8px 5px;line-height:16px}
+.vote .voteT .t1,.vote .voteAttr .t1 {float:left}
+.vote .voteT .t1 em,.vote .voteAttr .t1 em{ font-weight:bold; color:#666; margin:0}
+.vote .voteT .t2,.vote .voteAttr .t2 {text-align:right}
+.vote li {padding:5px 0 3px;margin:1px 0;cursor:default}
+.vote .selected {background:#d1f3b5!important}
+.vote li:hover {background:#ccebf8}
+.voteC .ttl,.voteC .nums,.voteC .box,.voteC .sta,.voteC .pbar {display:inline-block;*display:inline;*zoom:1;margin:0 -4px 0 10px;*margin-right:0;vertical-align:top}
+.vote .ttl {width:138px;padding:0 12px 0 0;font-weight:normal;text-align:right;background:url(//s1.cr.itc.cn/img/s/ico/0188.gif) no-repeat right bottom}
+.vote .pbar {overflow:hidden;width:148px;padding:0 2px 0 0;margin-top:3px;margin-left:6px}
+.vote .voted .i {background-position:-200px 0}
+.vote .nums {width:55px}
+.vote .box {width:20px}
+.vote em {margin:0 0 0 3px;color:#999}
+.vote .btns2 {margin:20px 21px 6px 0}
+.vote .box .cbox,.vote .box .rado,.vote .box input {margin:0;padding:0}
+.pbar,.pbar b,.pbar p {display:block;height:12px;background:url(//s1.cr.itc.cn/img/t/292.png) no-repeat}
+.pbar p {padding:0 0 0 2px;background-position:0 -12px}
+.pbar b {padding:0 2px 0 0;background-position:right -24px}
+.vote .t2 .pbar p {background-position:0 -36px}
+.vote .t2 .pbar b {background-position:right -48px}
+.vote .t3 .pbar p {background-position:0 -60px}
+.vote .t3 .pbar b {background-position:right -72px}
+.vote .t4 .pbar p {background-position:0 -84px}
+.vote .t4 .pbar b {background-position:right -96px}
+.vote .t5 .pbar p {background-position:0 -108px}
+.vote .t5 .pbar b {background-position:right -120px}
+.vote .t6 .pbar p {background-position:0 -132px}
+.vote .t6 .pbar b {background-position:right -144px}
+.vote .btns2 .opt {padding:0 0 0 20px}
+.vote .btns2 .opt .i {margin-right:3px}
+

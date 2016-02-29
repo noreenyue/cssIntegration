@@ -1,0 +1,10 @@
+.usrPanel {min-height:26px;_height:26px;padding:8px 10px!important;margin:10px!important; border:1px solid #E8EAEB; background:#f1f4f5;-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px}
+.usrPanel .stat,.usrPanel .oper,.usrPanel .group {float:left}
+.usrPanel .stat {padding:4px 0 0;*padding:6px 0 0;color:#acb5bc}
+.usrPanel .stat .btn {margin:-4px 0 0;*margin-top:-6px;;vertical-align:top}
+.usrPanel .stat .i {margin:0 0 0.2em 3px}
+.usrPanel .group {height:25px;padding:1px 0 0 8px}
+.usrPanel .oper {float:right;height:25px;padding:1px 0 0}
+.usrPanel .tags { float:right}
+p.relat {top:6px;position:relative;*zoom:1;clear:both;padding:3px; background:url(//builder.oliv.cn/img/s/lin/hr_dt_c7_3.gif) repeat-x;color:#999}
+p.relat .fuc {margin-left:4px;margin-right:3px}

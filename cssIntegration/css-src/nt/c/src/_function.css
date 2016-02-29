@@ -1,0 +1,18 @@
+.fuc {font-size:12px;white-space:nowrap;font-family:"\5b8b\4f53";color:#2BADD7}
+a.fuc:hover {text-decoration:none;_text-decoration:underline}
+a.fuc:hover b {text-decoration:underline}
+.fuc_dis,.fuc_dis b {color:#999!important;text-decoration:none!important}
+.fuc_dis .add {display:none}
+.fuc_dis {cursor:default}
+
+.fucs { text-align:left}
+.fucs .fuc {margin-right:10px}
+.fucs2 {text-align:right}
+.fucs3 {text-align:center}
+
+
+.fucUndo {padding-left:8px;margin:0 0 0 7px;line-height:17px;background:url(//s3.cr.itc.cn/img/t/151.gif) no-repeat 0; color:#999}
+.fucBack { color:#999}
+
+.close,.del {z-index:9;top:1px;left:100%;position:relative;overflow:hidden;display:block;width:16px;height:16px;margin:0 0 -16px -18px;text-align:center;*vertical-align:middle;color:#bababa}
+a.close:hover,a.del:hover {text-decoration:none;color:#8a8a8a}
