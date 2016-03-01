@@ -1,0 +1,5 @@
+ {margin:-16px 0 0 -26px}
+ /*.usrStat .pVer {width:26px;height:26px}.usrStat .pVer 
+ .png {margin:-16px 0 0}.usrStat2 .pVer {width:126px;height:25px}
+ .usrStat2 .pVer .png {margin:-16px 0 0 -26px}*/
+ .navi .p .png {width:29px;height:120px;background-image:url

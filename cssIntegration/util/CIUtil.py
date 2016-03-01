@@ -1,10 +1,31 @@
 # -*- coding: utf-8 -*-       
 import re     
-from util.CIConst import Constants
 import os
+from util.CIConst import Constants
 
-# 注释匹配
-def regMatchNotes(text):
+# 去除跨行注释
+def crossLineRemoveNotes(lines):
+    status = False 
+    newLines = []
+    for line in lines:
+        if status :
+            endIdx = line.find('*/')
+            if endIdx >= 0:
+                endIdx = line.index('*/') +1 +len('*/')
+                line = line[endIdx:]
+                newLines.append(line)
+                status = False
+        else:
+            startIdx = line.find('/*')
+            if startIdx >=0 :
+                status = True
+                startIdx = line.index('/*')
+                line = line[:startIdx]
+            newLines.append(line)
+    return newLines
+
+# 单行去除注释
+def lineRemoveNotes(text):
     text = text.strip()
     regex = r"/\*[\w\W]*?\*/"
     match = re.search(regex, text)
@@ -17,6 +38,10 @@ def regMatchNotes(text):
         else:
             break
     return text
+
+# 去掉空白
+def lineRemoveSpace(text):
+    return text.replace('\r','').replace('\n','').replace('\t','')
 
 # import匹配
 def regMatchImport(text):

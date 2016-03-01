@@ -9,20 +9,26 @@ logger = CILogger.getLogger(LOG_PATH)
 
 class utilTestCase(unittest.TestCase):
     
-    def test_logger(self):
-        logger.info('test')
-    
-    def test_regular(self):
-        text = "/*test*/"
-        match = CIUtil.regMatchNotes(text)
-        self.assertEqual(match, '')
-        
-        text = "%%/*22***/"
-        match = CIUtil.regMatchNotes(text)
-        self.assertEqual(match, '%%')
-        
-        text2 = '@import "c/ap.css";'
-        match = CIUtil.regMatchImport(text2)
-        self.assertEqual(match, True)
-        
-        
+#     def test_logger(self):
+#         logger.info('test')
+#     
+#     def test_regular(self):
+#         text = "/*test*/"
+#         match = CIUtil.lineRemoveNotes(text)
+#         self.assertEqual(match, '')
+#         
+#         text = "%%/*22***/"
+#         match = CIUtil.lineRemoveNotes(text)
+#         self.assertEqual(match, '%%')
+#         
+#         text2 = '@import "c/ap.css";'
+#         match = CIUtil.regMatchImport(text2)
+#         self.assertEqual(match, True)
+#         
+    def test_crosslineNotes(self):
+        filename = 'test.txt'
+        fh = open(filename)
+        lines = fh.readlines()
+        newLines = CIUtil.crossLineRemoveNotes(lines)
+        for line in newLines:
+            print line 
