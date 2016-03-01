@@ -25,10 +25,17 @@ class utilTestCase(unittest.TestCase):
 #         match = CIUtil.regMatchImport(text2)
 #         self.assertEqual(match, True)
 #         
-    def test_crosslineNotes(self):
-        filename = 'test.txt'
-        fh = open(filename)
-        lines = fh.readlines()
-        newLines = CIUtil.crossLineRemoveNotes(lines)
-        for line in newLines:
-            print line 
+#     def test_crosslineNotes(self):
+#         filename = 'test.txt'
+#         fh = open(filename)
+#         lines = fh.readlines()
+#         newLines = CIUtil.crossLineRemoveNotes(lines)
+#         for line in newLines:
+#             print line 
+            
+    def test_konge(self):
+        text = "   {  }  ;"
+        text = CIUtil.removeCloseSpace("{", text)
+        text = CIUtil.removeCloseSpace("}", text)
+        text = CIUtil.removeCloseSpace(";", text)
+        print text

@@ -12,6 +12,9 @@ from util import CILogger, CIUtil
 from util.CIConst import Constants
 logger = CILogger.getLogger(LOG_PATH)
 
+'''
+紧凑一行文本
+'''
 def compactLine(text):
     text =  CIUtil.lineRemoveNotes(text)
     return CIUtil.lineRemoveSpace(text)
@@ -19,7 +22,7 @@ def compactLine(text):
 '''
 紧凑文件
 '''
-def compactFiles(subFilePath):
+def compactFile(subFilePath):
     reName = subFilePath + "_bk"
     fh = open(subFilePath, 'r+')
     lines = fh.readlines() 
@@ -64,7 +67,7 @@ def rootWriter(rootpath):
                 filePath = os.path.join(dirPath, filename)
                 fp = open(filePath, "a+")
                 subFileWriter( subFilePath, fp)
-                compactFiles(filePath)
+                compactFile(filePath)
                 fp.flush()
                 fp.close()
                 

@@ -39,9 +39,19 @@ def lineRemoveNotes(text):
             break
     return text
 
+# 去掉指定符号附近的空格
+def removeCloseSpace(symbol, text):
+    regex = r"\s*%s\s*" % symbol
+    p = re.compile(regex)
+    return p.sub(symbol, text)
+
 # 去掉空白
 def lineRemoveSpace(text):
-    return text.replace('\r','').replace('\n','').replace('\t','')
+    text = text.replace('\r','').replace('\n','').replace('\t','')
+    text = removeCloseSpace("{", text)
+    text = removeCloseSpace("}", text)
+    text = removeCloseSpace(";", text)
+    return text
 
 # import匹配
 def regMatchImport(text):
