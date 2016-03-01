@@ -1,0 +1,405 @@
+[2016-03-01 09:46:35,117] ERROR coercing to Unicode: need string or buffer, tuple found
+Traceback (most recent call last):
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 61, in <module>
+    rootWriter(SRC_PATH)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 37, in rootWriter
+    subFileWriter( filepath)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 50, in subFileWriter
+    subFileWriter(filePath)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 43, in subFileWriter
+    fh = open(abspath)
+TypeError: coercing to Unicode: need string or buffer, tuple found
+[2016-03-01 09:47:14,986] ERROR [Errno 2] No such file or directory: '/home/noreen/git/cssIntegration/cssIntegration/src/nt/src/_reset.css'
+Traceback (most recent call last):
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 61, in <module>
+    rootWriter(SRC_PATH)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 37, in rootWriter
+    subFileWriter( filepath)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 50, in subFileWriter
+    subFileWriter(filePath)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 50, in subFileWriter
+    subFileWriter(filePath)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 43, in subFileWriter
+    fh = open(abspath)
+IOError: [Errno 2] No such file or directory: '/home/noreen/git/cssIntegration/cssIntegration/src/nt/src/_reset.css'
+[2016-03-01 09:49:02,990] ERROR [Errno 2] No such file or directory: '/home/noreen/git/cssIntegration/cssIntegration/src/nt/../c/base.css'
+Traceback (most recent call last):
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 61, in <module>
+    rootWriter(SRC_PATH)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 37, in rootWriter
+    subFileWriter( filepath)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 50, in subFileWriter
+    subFileWriter(filePath)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 43, in subFileWriter
+    fh = open(abspath)
+IOError: [Errno 2] No such file or directory: '/home/noreen/git/cssIntegration/cssIntegration/src/nt/../c/base.css'
+[2016-03-01 09:49:17,127] ERROR [Errno 2] No such file or directory: '/home/noreen/git/cssIntegration/cssIntegration/src/c/base.css'
+Traceback (most recent call last):
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 61, in <module>
+    rootWriter(SRC_PATH)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 37, in rootWriter
+    subFileWriter( filepath)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 50, in subFileWriter
+    subFileWriter(filePath)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 43, in subFileWriter
+    fh = open(abspath)
+IOError: [Errno 2] No such file or directory: '/home/noreen/git/cssIntegration/cssIntegration/src/c/base.css'
+[2016-03-01 09:49:37,883] ERROR [Errno 2] No such file or directory: '/home/noreen/git/cssIntegration/cssIntegration/src/nt/src/_reset.css'
+Traceback (most recent call last):
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 61, in <module>
+    rootWriter(SRC_PATH)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 37, in rootWriter
+    subFileWriter( filepath)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 50, in subFileWriter
+    subFileWriter(filePath)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 50, in subFileWriter
+    subFileWriter(filePath)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 43, in subFileWriter
+    fh = open(abspath)
+IOError: [Errno 2] No such file or directory: '/home/noreen/git/cssIntegration/cssIntegration/src/nt/src/_reset.css'
+[2016-03-01 09:50:28,216] ERROR [Errno 2] No such file or directory: '/home/noreen/git/cssIntegration/cssIntegration/src/nt/src/_reset.css'
+Traceback (most recent call last):
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 62, in <module>
+    rootWriter(SRC_PATH)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 37, in rootWriter
+    subFileWriter( filepath)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 51, in subFileWriter
+    subFileWriter(filePath)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 51, in subFileWriter
+    subFileWriter(filePath)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 43, in subFileWriter
+    fh = open(abspath)
+IOError: [Errno 2] No such file or directory: '/home/noreen/git/cssIntegration/cssIntegration/src/nt/src/_reset.css'
+[2016-03-01 09:51:25,139] ERROR [Errno 2] No such file or directory: '/home/noreen/git/cssIntegration/cssIntegration/src/nt/@import "c/base.css";\r\n'
+Traceback (most recent call last):
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 61, in <module>
+    rootWriter(SRC_PATH)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 37, in rootWriter
+    subFileWriter( filepath)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 50, in subFileWriter
+    subFileWriter(filePath)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 43, in subFileWriter
+    fh = open(abspath)
+IOError: [Errno 2] No such file or directory: '/home/noreen/git/cssIntegration/cssIntegration/src/nt/@import "c/base.css";\r\n'
+[2016-03-01 09:51:41,933] ERROR [Errno 2] No such file or directory: '/home/noreen/git/cssIntegration/cssIntegration/src/nt/src/_reset.css'
+Traceback (most recent call last):
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 62, in <module>
+    rootWriter(SRC_PATH)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 37, in rootWriter
+    subFileWriter( filepath)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 51, in subFileWriter
+    subFileWriter(filePath)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 51, in subFileWriter
+    subFileWriter(filePath)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 43, in subFileWriter
+    fh = open(abspath)
+IOError: [Errno 2] No such file or directory: '/home/noreen/git/cssIntegration/cssIntegration/src/nt/src/_reset.css'
+[2016-03-01 09:52:42,349] ERROR [Errno 20] Not a directory: '/home/noreen/git/cssIntegration/cssIntegration/src/nt/g.css/c/base.css'
+Traceback (most recent call last):
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 62, in <module>
+    rootWriter(SRC_PATH)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 37, in rootWriter
+    subFileWriter( filepath)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 51, in subFileWriter
+    subFileWriter(filePath)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 43, in subFileWriter
+    fh = open(abspath)
+IOError: [Errno 20] Not a directory: '/home/noreen/git/cssIntegration/cssIntegration/src/nt/g.css/c/base.css'
+[2016-03-01 10:11:42,822] ERROR subFileWriter() takes exactly 2 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 71, in <module>
+    rootWriter(SRC_PATH)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 44, in rootWriter
+    subFileWriter( subFilePath, fp)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 60, in subFileWriter
+    subFileWriter(filePath)
+TypeError: subFileWriter() takes exactly 2 arguments (1 given)
+[2016-03-01 10:16:12,881] INFO dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 10:16:12,881] ERROR [Errno 39] Directory not empty: '/home/noreen/git/cssIntegration/cssIntegration/20160301'
+Traceback (most recent call last):
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 74, in <module>
+    rootWriter(SRC_PATH)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 35, in rootWriter
+    dirPath = makeDirToday()
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 21, in makeDirToday
+    os.removedirs(dirPath)
+  File "/usr/lib/python2.7/os.py", line 170, in removedirs
+    rmdir(name)
+OSError: [Errno 39] Directory not empty: '/home/noreen/git/cssIntegration/cssIntegration/20160301'
+[2016-03-01 10:18:01,365] INFO dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 10:18:08,581] INFO dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 10:18:08,581] ERROR [Errno 2] No such file or directory: 'g.css'
+Traceback (most recent call last):
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 77, in <module>
+    rootWriter(SRC_PATH)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 38, in rootWriter
+    dirPath = makeDirToday()
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 23, in makeDirToday
+    os.remove(file)
+OSError: [Errno 2] No such file or directory: 'g.css'
+[2016-03-01 10:18:41,490] INFO dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 10:18:41,490] ERROR [Errno 21] Is a directory: '/home/noreen/git/cssIntegration/cssIntegration/20160301'
+Traceback (most recent call last):
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 75, in <module>
+    rootWriter(SRC_PATH)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 36, in rootWriter
+    dirPath = makeDirToday()
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 21, in makeDirToday
+    os.remove(dirPath)
+OSError: [Errno 21] Is a directory: '/home/noreen/git/cssIntegration/cssIntegration/20160301'
+[2016-03-01 10:19:57,004] INFO dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 10:19:57,004] ERROR [Errno 2] No such file or directory: '/home/noreen/git/cssIntegration/cssIntegration/20160301/sets.css/g.css'
+Traceback (most recent call last):
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 78, in <module>
+    rootWriter(SRC_PATH)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 50, in rootWriter
+    fp = makeFile(os.path.join(dirPath, filename))
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 31, in makeFile
+    fp = open(filepath, "a+")
+IOError: [Errno 2] No such file or directory: '/home/noreen/git/cssIntegration/cssIntegration/20160301/sets.css/g.css'
+[2016-03-01 10:20:16,465] INFO dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 10:20:16,465] ERROR [Errno 21] Is a directory: '/home/noreen/git/cssIntegration/cssIntegration/20160301'
+Traceback (most recent call last):
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 77, in <module>
+    rootWriter(SRC_PATH)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 38, in rootWriter
+    dirPath = makeDirToday()
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 23, in makeDirToday
+    os.remove(dirPath)
+OSError: [Errno 21] Is a directory: '/home/noreen/git/cssIntegration/cssIntegration/20160301'
+[2016-03-01 10:21:42,756] INFO dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 10:21:42,756] ERROR [Errno 2] No such file or directory: '/home/noreen/git/cssIntegration/cssIntegration/20160301/g.css'
+Traceback (most recent call last):
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 80, in <module>
+    rootWriter(SRC_PATH)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 52, in rootWriter
+    fp = makeFile(os.path.join(dirPath, filename))
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 28, in makeFile
+    fp = open(filepath, "a+")
+IOError: [Errno 2] No such file or directory: '/home/noreen/git/cssIntegration/cssIntegration/20160301/g.css'
+[2016-03-01 10:22:13,083] INFO dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 10:22:13,084] ERROR 'NoneType' object has no attribute 'endswith'
+Traceback (most recent call last):
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 72, in <module>
+    rootWriter(SRC_PATH)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 44, in rootWriter
+    fp = makeFile(os.path.join(dirPath, filename))
+  File "/usr/lib/python2.7/posixpath.py", line 77, in join
+    elif path == '' or path.endswith('/'):
+AttributeError: 'NoneType' object has no attribute 'endswith'
+[2016-03-01 10:22:36,974] INFO dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 10:22:36,975] ERROR 'NoneType' object has no attribute 'endswith'
+Traceback (most recent call last):
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 73, in <module>
+    rootWriter(SRC_PATH)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 45, in rootWriter
+    fp = makeFile(os.path.join(dirPath, filename))
+  File "/usr/lib/python2.7/posixpath.py", line 77, in join
+    elif path == '' or path.endswith('/'):
+AttributeError: 'NoneType' object has no attribute 'endswith'
+[2016-03-01 10:23:11,306] INFO dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 10:23:11,306] ERROR 'NoneType' object has no attribute 'endswith'
+Traceback (most recent call last):
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 73, in <module>
+    rootWriter(SRC_PATH)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 45, in rootWriter
+    fp = makeFile(os.path.join(dirPath, filename))
+  File "/usr/lib/python2.7/posixpath.py", line 77, in join
+    elif path == '' or path.endswith('/'):
+AttributeError: 'NoneType' object has no attribute 'endswith'
+[2016-03-01 10:26:21,763] INFO dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 10:26:21,763] ERROR 'NoneType' object has no attribute 'endswith'
+Traceback (most recent call last):
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 74, in <module>
+    rootWriter(SRC_PATH)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 46, in rootWriter
+    fp = makeFile(os.path.join(dirPath, filename))
+  File "/usr/lib/python2.7/posixpath.py", line 77, in join
+    elif path == '' or path.endswith('/'):
+AttributeError: 'NoneType' object has no attribute 'endswith'
+[2016-03-01 10:26:46,473] INFO dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 10:26:46,473] ERROR 'NoneType' object has no attribute 'endswith'
+Traceback (most recent call last):
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 74, in <module>
+    rootWriter(SRC_PATH)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 46, in rootWriter
+    fp = makeFile(os.path.join(dirPath, filename))
+  File "/usr/lib/python2.7/posixpath.py", line 77, in join
+    elif path == '' or path.endswith('/'):
+AttributeError: 'NoneType' object has no attribute 'endswith'
+[2016-03-01 10:27:46,960] INFO dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 10:27:46,960] ERROR [Errno 17] File exists: '/home/noreen/git/cssIntegration/cssIntegration/20160301'
+Traceback (most recent call last):
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 74, in <module>
+    rootWriter(SRC_PATH)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 35, in rootWriter
+    dirPath = makeDirToday()
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 25, in makeDirToday
+    os.makedirs(dirPath)
+  File "/usr/lib/python2.7/os.py", line 157, in makedirs
+    mkdir(name, mode)
+OSError: [Errno 17] File exists: '/home/noreen/git/cssIntegration/cssIntegration/20160301'
+[2016-03-01 10:28:31,070] INFO dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 10:28:31,070] ERROR 'NoneType' object has no attribute 'endswith'
+Traceback (most recent call last):
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 75, in <module>
+    rootWriter(SRC_PATH)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 47, in rootWriter
+    fp = makeFile(os.path.join(dirPath, filename))
+  File "/usr/lib/python2.7/posixpath.py", line 77, in join
+    elif path == '' or path.endswith('/'):
+AttributeError: 'NoneType' object has no attribute 'endswith'
+[2016-03-01 10:28:47,612] INFO dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 10:28:47,612] ERROR 'NoneType' object has no attribute 'endswith'
+Traceback (most recent call last):
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 76, in <module>
+    rootWriter(SRC_PATH)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 48, in rootWriter
+    fp = makeFile(os.path.join(dirPath, filename))
+  File "/usr/lib/python2.7/posixpath.py", line 77, in join
+    elif path == '' or path.endswith('/'):
+AttributeError: 'NoneType' object has no attribute 'endswith'
+[2016-03-01 10:30:08,192] INFO dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 10:30:27,651] INFO dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 10:33:11,725] INFO dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 10:35:00,090] INFO dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 10:35:30,353] INFO dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 10:35:30,353] ERROR [Errno 2] No such file or directory: '/home/noreen/git/cssIntegration/cssIntegration/20160301/g.css'
+Traceback (most recent call last):
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 76, in <module>
+    rootWriter(SRC_PATH)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 47, in rootWriter
+    fp = makeFile(os.path.join(dirPath, filename))
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 29, in makeFile
+    fp = open(filepath, "a+")
+IOError: [Errno 2] No such file or directory: '/home/noreen/git/cssIntegration/cssIntegration/20160301/g.css'
+[2016-03-01 10:38:07,875] INFO dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 10:38:07,876] ERROR [Errno 2] No such file or directory: '/home/noreen/git/cssIntegration/cssIntegration/20160301/g.css'
+Traceback (most recent call last):
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 76, in <module>
+    rootWriter(SRC_PATH)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 47, in rootWriter
+    fp = makeFile(os.path.join(dirPath, filename))
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 29, in makeFile
+    fp = open(filepath, "a+")
+IOError: [Errno 2] No such file or directory: '/home/noreen/git/cssIntegration/cssIntegration/20160301/g.css'
+[2016-03-01 10:43:01,983] INFO dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 10:43:01,983] ERROR [Errno 2] No such file or directory: '/home/noreen/git/cssIntegration/cssIntegration/20160301/g.css'
+Traceback (most recent call last):
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 45, in rootWriter
+    fp = open(filePath, "a+")
+IOError: [Errno 2] No such file or directory: '/home/noreen/git/cssIntegration/cssIntegration/20160301/g.css'
+[2016-03-01 10:44:39,480] INFO dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 11:00:01,140] INFO dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 11:00:32,581] INFO dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 11:25:27,125] INFO dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 11:27:57,202] INFO dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 11:28:27,331] INFO dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 11:29:10,593 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 11:30:29,228 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 11:30:42,825 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 11:40:43,994 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 13:14:00,285 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 13:42:43,772 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 13:50:20,762 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 13:51:25,599 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 13:52:02,835 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 13:52:35,674 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 13:57:23,162 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 14:02:14,203 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 14:05:15,730 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 14:11:57,772 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 14:15:00,883 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 14:24:08,066 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 14:24:58,773 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 14:27:35,099 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 14:29:25,238 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 14:29:41,761 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 14:30:21,411 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 14:41:18,665 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 14:41:30,097 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 14:45:54,472 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 14:48:30,599 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 14:48:30,601 ERROR] 'file' object has no attribute 'writeline'
+Traceback (most recent call last):
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 91, in <module>
+    rootWriter(SRC_PATH)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 59, in rootWriter
+    compactFiles(filePath)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 25, in compactFiles
+    fh.writeline(newLine)
+AttributeError: 'file' object has no attribute 'writeline'
+[2016-03-01 14:48:39,124 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 14:51:34,967 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 14:51:57,384 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 14:51:57,388 ERROR] [Errno 2] No such file or directory: '/home/noreen/git/cssIntegration/cssIntegration/20160301/g.css'
+Traceback (most recent call last):
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 94, in <module>
+    rootWriter(SRC_PATH)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 62, in rootWriter
+    compactFiles(filePath)
+  File "/home/noreen/git/cssIntegration/cssIntegration/main/CIManager.py", line 28, in compactFiles
+    fh2 = open(subFilePath, 'r+')
+IOError: [Errno 2] No such file or directory: '/home/noreen/git/cssIntegration/cssIntegration/20160301/g.css'
+[2016-03-01 14:52:06,574 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 14:53:39,202 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
+[2016-03-01 14:54:05,237 INFO] dir /home/noreen/git/cssIntegration/cssIntegration/20160301 allready exists! Sub Files delete!
+
